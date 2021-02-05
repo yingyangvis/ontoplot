@@ -1,0 +1,820 @@
+source,target,relation
+http://purl.obolibrary.org/obo/OHMI_0000149,http://purl.obolibrary.org/obo/NCBITaxon_39948,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000167,http://purl.obolibrary.org/obo/NCBITaxon_5476,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000337,http://purl.obolibrary.org/obo/NCBITaxon_171551,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000308,http://purl.obolibrary.org/obo/NCBITaxon_579,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000050,http://purl.obolibrary.org/obo/NCBITaxon_46228,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_216851,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000315,http://purl.obolibrary.org/obo/NCBITaxon_338188,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000241,http://purl.obolibrary.org/obo/NCBITaxon_651822,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000093,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000131,http://purl.obolibrary.org/obo/NCBITaxon_697899,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000126,http://purl.obolibrary.org/obo/NCBITaxon_39496,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000233,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000139,http://purl.obolibrary.org/obo/NCBITaxon_657309,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_697899,http://purl.obolibrary.org/obo/DOID_13189,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000451,http://purl.obolibrary.org/obo/NCBITaxon_315405,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_28112,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000173,http://purl.obolibrary.org/obo/NCBITaxon_416916,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000270,http://purl.obolibrary.org/obo/NCBITaxon_186803,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000254,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000256,http://purl.obolibrary.org/obo/NCBITaxon_815,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000266,http://purl.obolibrary.org/obo/NCBITaxon_165179,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000247,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000118,http://purl.obolibrary.org/obo/NCBITaxon_171551,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000329,http://purl.obolibrary.org/obo/NCBITaxon_67824,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000341,http://purl.obolibrary.org/obo/NCBITaxon_239759,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000434,http://purl.obolibrary.org/obo/NCBITaxon_730,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/CHEBI_33697,has part
+http://purl.obolibrary.org/obo/OHMI_0000415,http://purl.obolibrary.org/obo/NCBITaxon_32025,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000199,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000185,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000317,http://purl.obolibrary.org/obo/NCBITaxon_165179,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000205,http://purl.obolibrary.org/obo/OHMI_0000035,located in
+http://purl.obolibrary.org/obo/OHMI_0000086,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000224,http://purl.obolibrary.org/obo/NCBITaxon_171550,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000258,http://purl.obolibrary.org/obo/NCBITaxon_81852,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000212,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000119,http://purl.obolibrary.org/obo/NCBITaxon_815,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000146,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000040,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000180,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_2717,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000021,http://purl.obolibrary.org/obo/NCBITaxon_9606,part of
+http://purl.obolibrary.org/obo/OHMI_0000275,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000170,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000068,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000275,http://purl.obolibrary.org/obo/NCBITaxon_33042,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_1681,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000061,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000127,http://purl.obolibrary.org/obo/NCBITaxon_186803,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_816,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000125,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000163,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000215,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000180,http://purl.obolibrary.org/obo/NCBITaxon_28112,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000001,http://purl.obolibrary.org/obo/OHMI_0000003,has participant
+http://purl.obolibrary.org/obo/OHMI_0000096,http://purl.obolibrary.org/obo/NCBITaxon_562,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000132,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000264,http://purl.obolibrary.org/obo/NCBITaxon_310297,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000107,http://purl.obolibrary.org/obo/NCBITaxon_573,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000310,http://purl.obolibrary.org/obo/NCBITaxon_59201,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000391,http://purl.obolibrary.org/obo/NCBITaxon_1308,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000065,http://purl.obolibrary.org/obo/NCBITaxon_584,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000325,http://purl.obolibrary.org/obo/NCBITaxon_39950,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000302,http://purl.obolibrary.org/obo/NCBITaxon_31979,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_716545,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OHMI_0000202,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000139,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000446,http://purl.obolibrary.org/obo/NCBITaxon_1351,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000044,http://purl.obolibrary.org/obo/NCBITaxon_817,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000077,http://purl.obolibrary.org/obo/NCBITaxon_9606,part of
+http://purl.obolibrary.org/obo/OHMI_0000123,http://purl.obolibrary.org/obo/NCBITaxon_641,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0400103,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000372,http://purl.obolibrary.org/obo/NCBITaxon_836,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000188,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000158,http://purl.obolibrary.org/obo/NCBITaxon_100883,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000266,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000068,http://purl.obolibrary.org/obo/NCBITaxon_570,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000321,http://purl.obolibrary.org/obo/NCBITaxon_28052,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000079,http://purl.obolibrary.org/obo/NCBITaxon_836,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000178,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000267,http://purl.obolibrary.org/obo/NCBITaxon_590,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_55193,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OBI_0000453,http://purl.obolibrary.org/obo/IAO_0000109,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000344,http://purl.obolibrary.org/obo/NCBITaxon_9606,part of
+http://purl.obolibrary.org/obo/OHMI_0000098,http://purl.obolibrary.org/obo/NCBITaxon_216851,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000171,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000194,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/NCBITaxon_157,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000190,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000237,http://purl.obolibrary.org/obo/NCBITaxon_1017,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000155,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000426,http://purl.obolibrary.org/obo/NCBITaxon_1219642,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000239,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OBI_0600012,http://purl.obolibrary.org/obo/ENVO_00010483,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000073,http://purl.obolibrary.org/obo/OBI_0000456,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000418,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_10239,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OHMI_0000380,http://purl.obolibrary.org/obo/NCBITaxon_216816,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000069,http://purl.obolibrary.org/obo/NCBITaxon_1624,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_740,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000001,http://purl.obolibrary.org/obo/OBI_0000725,has role
+http://purl.obolibrary.org/obo/OHMI_0000297,http://purl.obolibrary.org/obo/NCBITaxon_34104,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000134,http://purl.obolibrary.org/obo/NCBITaxon_577309,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000082,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000194,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000190,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000452,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000113,http://purl.obolibrary.org/obo/NCBITaxon_976,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000245,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000263,http://purl.obolibrary.org/obo/NCBITaxon_1088106,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000183,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000176,http://purl.obolibrary.org/obo/DOID_7147,has disposition
+http://purl.obolibrary.org/obo/NCBITaxon_1681,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted (compared to fibromyalgia patients) in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000200,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000086,http://purl.obolibrary.org/obo/NCBITaxon_2717,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000170,http://purl.obolibrary.org/obo/NCBITaxon_77020,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000043,http://purl.obolibrary.org/obo/NCBITaxon_333367,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000278,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000242,http://purl.obolibrary.org/obo/NCBITaxon_848,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000201,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000125,http://purl.obolibrary.org/obo/NCBITaxon_662,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000096,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000146,http://purl.obolibrary.org/obo/NCBITaxon_283168,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000134,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_221102,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OHMI_0000223,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000161,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000091,http://purl.obolibrary.org/obo/NCBITaxon_165179,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000210,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000141,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_416916,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000233,http://purl.obolibrary.org/obo/NCBITaxon_84111,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000405,http://purl.obolibrary.org/obo/NCBITaxon_1763,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000273,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0600014,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000322,http://purl.obolibrary.org/obo/NCBITaxon_46206,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000084,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000187,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/NCBITaxon_724,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000324,http://purl.obolibrary.org/obo/NCBITaxon_218538,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000213,http://purl.obolibrary.org/obo/NCBITaxon_186802,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000208,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000314,http://purl.obolibrary.org/obo/NCBITaxon_33882,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_561,http://purl.obolibrary.org/obo/DOID_9256,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000285,http://purl.obolibrary.org/obo/NCBITaxon_32066,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000220,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000151,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000144,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000398,http://purl.obolibrary.org/obo/NCBITaxon_1335,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_407,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000140,http://purl.obolibrary.org/obo/NCBITaxon_61170,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000073,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000276,http://purl.obolibrary.org/obo/NCBITaxon_33033,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000186,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000101,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0001137,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/OHMI_0000349,http://purl.obolibrary.org/obo/NCBITaxon_543,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000222,http://purl.obolibrary.org/obo/NCBITaxon_84111,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000236,http://purl.obolibrary.org/obo/NCBITaxon_51160,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000058,http://purl.obolibrary.org/obo/NCBITaxon_544,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000268,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0600014,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000160,http://purl.obolibrary.org/obo/NCBITaxon_1743,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_1624,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_562,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000342,http://purl.obolibrary.org/obo/NCBITaxon_28116,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000371,http://purl.obolibrary.org/obo/NCBITaxon_712,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000192,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000049,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_562,http://purl.obolibrary.org/obo/DOID_848,microbe susceptibly expanded in gut of rat with disease
+http://purl.obolibrary.org/obo/OHMI_0000095,http://purl.obolibrary.org/obo/NCBITaxon_10114,part of
+http://purl.obolibrary.org/obo/IAO_0000032,http://purl.obolibrary.org/obo/OBI_0001931,has value specification
+http://purl.obolibrary.org/obo/NCBITaxon_766165,http://purl.obolibrary.org/obo/DOID_13189,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000274,http://purl.obolibrary.org/obo/NCBITaxon_239935,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_186801,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000172,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000066,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000104,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_1110021,http://purl.obolibrary.org/obo/OBI_1110093,realizes
+http://purl.obolibrary.org/obo/OHMI_0000311,http://purl.obolibrary.org/obo/NCBITaxon_186806,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0001331,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0001051,http://purl.obolibrary.org/obo/CHEBI_16991,has grain
+http://purl.obolibrary.org/obo/OHMI_0000345,http://purl.obolibrary.org/obo/DOID_7148,has disease
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/CL_0000000,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000384,http://purl.obolibrary.org/obo/NCBITaxon_1598,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000228,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_9074,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000433,http://purl.obolibrary.org/obo/NCBITaxon_714,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000127,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000137,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000141,http://purl.obolibrary.org/obo/NCBITaxon_258514,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000185,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000419,http://purl.obolibrary.org/obo/NCBITaxon_1583098,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000124,http://purl.obolibrary.org/obo/NCBITaxon_657,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000137,http://purl.obolibrary.org/obo/NCBITaxon_47678,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000407,http://purl.obolibrary.org/obo/NCBITaxon_235572,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_29465,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000097,http://purl.obolibrary.org/obo/NCBITaxon_186802,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0000456,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000157,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000401,http://purl.obolibrary.org/obo/NCBITaxon_590,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000200,http://purl.obolibrary.org/obo/DOID_9074,located in
+http://purl.obolibrary.org/obo/OHMI_0000091,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000182,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000192,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/NCBITaxon_1532,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted (compared to fibromyalgia patients) in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000254,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000029,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000413,http://purl.obolibrary.org/obo/NCBITaxon_1532,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000261,http://purl.obolibrary.org/obo/NCBITaxon_570,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000282,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000049,http://purl.obolibrary.org/obo/NCBITaxon_1591,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000179,http://purl.obolibrary.org/obo/NCBITaxon_104608,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000392,http://purl.obolibrary.org/obo/NCBITaxon_1263,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000159,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000253,http://purl.obolibrary.org/obo/NCBITaxon_909929,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_192066,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000189,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000143,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000408,http://purl.obolibrary.org/obo/NCBITaxon_584,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000063,http://purl.obolibrary.org/obo/NCBITaxon_28131,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000222,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0000880,http://purl.obolibrary.org/obo/OBI_0666666,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000116,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0000257,http://purl.obolibrary.org/obo/CHEBI_16991,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000202,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000241,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000175,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000385,http://purl.obolibrary.org/obo/UBERON_0001088,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000174,http://purl.obolibrary.org/obo/NCBITaxon_192066,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000110,http://purl.obolibrary.org/obo/DOID_7147,has disposition
+http://purl.obolibrary.org/obo/OBI_0002444,http://purl.obolibrary.org/obo/BFO_0000040,role of
+http://purl.obolibrary.org/obo/OHMI_0000235,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000200,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000250,http://purl.obolibrary.org/obo/NCBITaxon_85025,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000300,http://purl.obolibrary.org/obo/NCBITaxon_102106,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000098,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000136,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000396,http://purl.obolibrary.org/obo/NCBITaxon_35832,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_165179,http://purl.obolibrary.org/obo/DOID_9256,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000040,http://purl.obolibrary.org/obo/NCBITaxon_29465,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000075,http://purl.obolibrary.org/obo/NCBITaxon_836,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000439,http://purl.obolibrary.org/obo/NCBITaxon_286,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/CHEBI_33697,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000332,http://purl.obolibrary.org/obo/NCBITaxon_150247,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000102,http://purl.obolibrary.org/obo/NCBITaxon_815,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0100060,http://purl.obolibrary.org/obo/OBI_0600024,is_specified_output_of
+http://purl.obolibrary.org/obo/IAO_0000104,http://purl.obolibrary.org/obo/IAO_0000007,has part
+http://purl.obolibrary.org/obo/OHMI_0000220,http://purl.obolibrary.org/obo/NCBITaxon_407,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000108,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_165179,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000182,http://purl.obolibrary.org/obo/NCBITaxon_821,located in
+http://purl.obolibrary.org/obo/OHMI_0000037,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000171,http://purl.obolibrary.org/obo/NCBITaxon_837,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000190,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000282,http://purl.obolibrary.org/obo/DOID_676,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000265,http://purl.obolibrary.org/obo/NCBITaxon_171552,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000340,http://purl.obolibrary.org/obo/NCBITaxon_375288,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000367,http://purl.obolibrary.org/obo/NCBITaxon_1300,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000122,http://purl.obolibrary.org/obo/DOID_9008,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000259,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000121,http://purl.obolibrary.org/obo/UBERON_0000014,part of
+http://purl.obolibrary.org/obo/OHMI_0000198,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000142,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000424,http://purl.obolibrary.org/obo/NCBITaxon_341694,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000188,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000402,http://purl.obolibrary.org/obo/NCBITaxon_620,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000335,http://purl.obolibrary.org/obo/NCBITaxon_239935,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000211,http://purl.obolibrary.org/obo/NCBITaxon_171549,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_201174,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000343,http://purl.obolibrary.org/obo/NCBITaxon_371601,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000351,http://purl.obolibrary.org/obo/NCBITaxon_1579,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000094,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/NCBITaxon_40545,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000071,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_538,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_28131,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000149,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000191,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000115,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_29523,http://purl.obolibrary.org/obo/DOID_13189,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000152,http://purl.obolibrary.org/obo/DOID_9008,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000097,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000281,http://purl.obolibrary.org/obo/DOID_6196,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000181,http://purl.obolibrary.org/obo/OHMI_0000035,located in
+http://purl.obolibrary.org/obo/OHMI_0000242,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000135,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000129,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000243,http://purl.obolibrary.org/obo/NCBITaxon_970,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000051,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000277,http://purl.obolibrary.org/obo/NCBITaxon_5481,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000279,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000115,http://purl.obolibrary.org/obo/NCBITaxon_976,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_104608,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000193,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000160,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000077,http://purl.obolibrary.org/obo/UBERON_0001005,part of
+http://purl.obolibrary.org/obo/OHMI_0000191,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000288,http://purl.obolibrary.org/obo/NCBITaxon_1257,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000443,http://purl.obolibrary.org/obo/NCBITaxon_33882,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_817,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000312,http://purl.obolibrary.org/obo/NCBITaxon_109326,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000215,http://purl.obolibrary.org/obo/UBERON_0001005,located in
+http://purl.obolibrary.org/obo/OHMI_0000260,http://purl.obolibrary.org/obo/NCBITaxon_1350,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000182,http://purl.obolibrary.org/obo/DOID_7147,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000203,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/GO_0010467,is about
+http://purl.obolibrary.org/obo/OHMI_0000366,http://purl.obolibrary.org/obo/NCBITaxon_815,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_471189,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000388,http://purl.obolibrary.org/obo/NCBITaxon_753642,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000102,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_13250,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000079,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000282,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000320,http://purl.obolibrary.org/obo/NCBITaxon_140626,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000138,http://purl.obolibrary.org/obo/NCBITaxon_29523,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000207,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000142,http://purl.obolibrary.org/obo/NCBITaxon_116085,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000973,http://purl.obolibrary.org/obo/SO_0000001,is about
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0000973,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000344,http://purl.obolibrary.org/obo/UBERON_0001088,part of
+http://purl.obolibrary.org/obo/OHMI_0000345,http://purl.obolibrary.org/obo/UBERON_0001088,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000089,http://purl.obolibrary.org/obo/NCBITaxon_172042,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_1872650,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000109,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000038,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000084,http://purl.obolibrary.org/obo/NCBITaxon_724,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0001573,http://purl.obolibrary.org/obo/OBI_0000811,is about
+http://purl.obolibrary.org/obo/OHMI_0000198,http://purl.obolibrary.org/obo/DOID_9074,located in
+http://purl.obolibrary.org/obo/OHMI_0000072,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000081,http://purl.obolibrary.org/obo/NCBITaxon_46205,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000201,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000177,http://purl.obolibrary.org/obo/NCBITaxon_1654,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000191,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/NCBITaxon_837,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_1502,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000442,http://purl.obolibrary.org/obo/NCBITaxon_700500,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000184,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000045,http://purl.obolibrary.org/obo/NCBITaxon_84112,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_output
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000259,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000153,http://purl.obolibrary.org/obo/NCBITaxon_239934,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000070,http://purl.obolibrary.org/obo/OBI_0000067,has role
+http://purl.obolibrary.org/obo/OHMI_0000103,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_740,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_1898203,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000326,http://purl.obolibrary.org/obo/NCBITaxon_158847,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/OBI_0666667,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000065,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000360,http://purl.obolibrary.org/obo/NCBITaxon_171549,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000036,http://purl.obolibrary.org/obo/NCBITaxon_9606,part of
+http://purl.obolibrary.org/obo/OHMI_0000410,http://purl.obolibrary.org/obo/NCBITaxon_1224,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000128,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000112,http://purl.obolibrary.org/obo/NCBITaxon_1239,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0302884,http://purl.obolibrary.org/obo/OBI_0000681,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000076,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000281,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000148,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_29523,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000425,http://purl.obolibrary.org/obo/NCBITaxon_817,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_158847,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_1269,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_84112,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000217,http://purl.obolibrary.org/obo/NCBITaxon_1654,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000045,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000227,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000441,http://purl.obolibrary.org/obo/NCBITaxon_40520,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000047,http://purl.obolibrary.org/obo/OBI_0000725,has role
+http://purl.obolibrary.org/obo/OHMI_0000042,http://purl.obolibrary.org/obo/NCBITaxon_158847,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000176,http://purl.obolibrary.org/obo/OHMI_0000032,located in
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0400103,inheres in
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0100026,has_specified_input
+http://purl.obolibrary.org/obo/OBI_1110021,http://purl.obolibrary.org/obo/IDO_0000586,has participant
+http://purl.obolibrary.org/obo/OHMI_0000397,http://purl.obolibrary.org/obo/NCBITaxon_976,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000165,http://purl.obolibrary.org/obo/NCBITaxon_5476,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000156,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_817,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted (compared to fibromyalgia patients) in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000428,http://purl.obolibrary.org/obo/NCBITaxon_305911,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000445,http://purl.obolibrary.org/obo/NCBITaxon_67825,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000454,http://purl.obolibrary.org/obo/NCBITaxon_76856,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000080,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000184,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000226,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000331,http://purl.obolibrary.org/obo/NCBITaxon_841,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0600012,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000261,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000182,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000282,http://purl.obolibrary.org/obo/NCBITaxon_590,located in
+http://purl.obolibrary.org/obo/OHMI_0000085,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000062,http://purl.obolibrary.org/obo/NCBITaxon_620,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000123,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000226,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OHMI_0000254,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000080,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000186,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000103,http://purl.obolibrary.org/obo/NCBITaxon_171552,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_165179,http://purl.obolibrary.org/obo/DOID_676,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000327,http://purl.obolibrary.org/obo/NCBITaxon_65402,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0100051,has part
+http://purl.obolibrary.org/obo/OHMI_0000083,http://purl.obolibrary.org/obo/DOID_7148,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000092,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000455,http://purl.obolibrary.org/obo/NCBITaxon_76857,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000201,http://purl.obolibrary.org/obo/DOID_9074,located in
+http://purl.obolibrary.org/obo/OHMI_0000206,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OHMI_0000383,http://purl.obolibrary.org/obo/NCBITaxon_47715,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000093,http://purl.obolibrary.org/obo/NCBITaxon_84163,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000230,http://purl.obolibrary.org/obo/NCBITaxon_1827,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000188,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000030,http://purl.obolibrary.org/obo/OHMI_0000033,has quality
+http://purl.obolibrary.org/obo/OHMI_0000362,http://purl.obolibrary.org/obo/NCBITaxon_820,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000004,http://purl.obolibrary.org/obo/NCBITaxon_10090,located in
+http://purl.obolibrary.org/obo/OHMI_0000374,http://purl.obolibrary.org/obo/NCBITaxon_128827,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000234,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000262,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000274,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000130,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000054,http://purl.obolibrary.org/obo/DOID_9256,has disease
+http://purl.obolibrary.org/obo/OHMI_0000271,http://purl.obolibrary.org/obo/NCBITaxon_1531,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0600012,http://purl.obolibrary.org/obo/OBI_0000684,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000150,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000067,http://purl.obolibrary.org/obo/DOID_13250,has disease
+http://purl.obolibrary.org/obo/OHMI_0000092,http://purl.obolibrary.org/obo/NCBITaxon_740,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000176,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000119,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000370,http://purl.obolibrary.org/obo/NCBITaxon_31977,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000458,http://purl.obolibrary.org/obo/NCBITaxon_29523,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/IAO_0000033,http://purl.obolibrary.org/obo/BFO_0000017,is about
+http://purl.obolibrary.org/obo/OHMI_0000296,http://purl.obolibrary.org/obo/NCBITaxon_265570,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000447,http://purl.obolibrary.org/obo/NCBITaxon_29347,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000061,http://purl.obolibrary.org/obo/NCBITaxon_837,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000199,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000228,http://purl.obolibrary.org/obo/NCBITaxon_1730,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000238,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_74426,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000105,http://purl.obolibrary.org/obo/NCBITaxon_573,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000169,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000281,http://purl.obolibrary.org/obo/OHMI_0000032,located in
+http://purl.obolibrary.org/obo/OHMI_0000162,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000105,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000172,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000389,http://purl.obolibrary.org/obo/NCBITaxon_35833,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000081,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000133,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000231,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000104,http://purl.obolibrary.org/obo/NCBITaxon_31977,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000305,http://purl.obolibrary.org/obo/NCBITaxon_171549,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000273,http://purl.obolibrary.org/obo/NCBITaxon_1678,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000257,http://purl.obolibrary.org/obo/NCBITaxon_543,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000357,http://purl.obolibrary.org/obo/NCBITaxon_976,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000968,http://purl.obolibrary.org/obo/BFO_0000034,has function
+http://purl.obolibrary.org/obo/OHMI_0000073,http://purl.obolibrary.org/obo/NCBITaxon_39948,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0001619,http://purl.obolibrary.org/obo/OBI_0000659,starts
+http://purl.obolibrary.org/obo/OHMI_0000179,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000193,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OHMI_0000432,http://purl.obolibrary.org/obo/NCBITaxon_37762,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000189,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000409,http://purl.obolibrary.org/obo/NCBITaxon_573,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000144,http://purl.obolibrary.org/obo/NCBITaxon_459786,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000154,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000267,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000289,http://purl.obolibrary.org/obo/NCBITaxon_848,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000205,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OBI_0000453,http://purl.obolibrary.org/obo/OBI_0000047,function of
+http://purl.obolibrary.org/obo/OHMI_0000260,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_84163,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_1591,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000094,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000078,http://purl.obolibrary.org/obo/DOID_7148,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000279,http://purl.obolibrary.org/obo/NCBITaxon_629,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000169,http://purl.obolibrary.org/obo/NCBITaxon_76777,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000319,http://purl.obolibrary.org/obo/NCBITaxon_39486,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000112,http://purl.obolibrary.org/obo/OBI_0000659,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000213,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_1847,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000074,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000085,http://purl.obolibrary.org/obo/NCBITaxon_201174,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000087,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000192,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000355,http://purl.obolibrary.org/obo/NCBITaxon_32045,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000659,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/NCBITaxon_2,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OHMI_0000195,http://purl.obolibrary.org/obo/OBI_0000725,has role
+http://purl.obolibrary.org/obo/OHMI_0000425,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_753642,http://purl.obolibrary.org/obo/DOID_9256,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000394,http://purl.obolibrary.org/obo/NCBITaxon_1301,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000197,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000162,http://purl.obolibrary.org/obo/NCBITaxon_1224,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000024,http://purl.obolibrary.org/obo/DOID_219,has disease
+http://purl.obolibrary.org/obo/OHMI_0000166,http://purl.obolibrary.org/obo/DOID_9008,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000037,http://purl.obolibrary.org/obo/NCBITaxon_471189,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000336,http://purl.obolibrary.org/obo/NCBITaxon_171552,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000151,http://purl.obolibrary.org/obo/NCBITaxon_1182749,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000291,http://purl.obolibrary.org/obo/NCBITaxon_55193,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000201,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000111,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000253,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000057,http://purl.obolibrary.org/obo/NCBITaxon_68766,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000034,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000328,http://purl.obolibrary.org/obo/NCBITaxon_33024,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000418,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/IAO_0000030,http://purl.obolibrary.org/obo/BFO_0000001,is about
+http://purl.obolibrary.org/obo/OHMI_0000399,http://purl.obolibrary.org/obo/NCBITaxon_81852,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000457,http://purl.obolibrary.org/obo/NCBITaxon_76859,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000041,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_1689,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000145,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000246,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000295,http://purl.obolibrary.org/obo/NCBITaxon_123375,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_472977,http://purl.obolibrary.org/obo/DOID_13250,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000193,http://purl.obolibrary.org/obo/NCBITaxon_186803,located in
+http://purl.obolibrary.org/obo/OHMI_0000100,http://purl.obolibrary.org/obo/NCBITaxon_541000,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000281,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000239,http://purl.obolibrary.org/obo/NCBITaxon_729,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000112,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000074,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000164,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000280,http://purl.obolibrary.org/obo/DOID_6196,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000200,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000131,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000269,http://purl.obolibrary.org/obo/NCBITaxon_853,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000150,http://purl.obolibrary.org/obo/NCBITaxon_239759,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000411,http://purl.obolibrary.org/obo/NCBITaxon_209,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000238,http://purl.obolibrary.org/obo/NCBITaxon_1305,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000280,http://purl.obolibrary.org/obo/NCBITaxon_10114,has disposition
+http://purl.obolibrary.org/obo/OBI_0000070,http://purl.obolibrary.org/obo/OBI_0000067,realizes
+http://purl.obolibrary.org/obo/OBI_0666667,http://purl.obolibrary.org/obo/CHEBI_33696,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000435,http://purl.obolibrary.org/obo/NCBITaxon_622,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000249,http://purl.obolibrary.org/obo/NCBITaxon_85007,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000456,http://purl.obolibrary.org/obo/NCBITaxon_155615,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000459,http://purl.obolibrary.org/obo/NCBITaxon_1898203,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000175,http://purl.obolibrary.org/obo/DOID_7147,has disposition
+http://purl.obolibrary.org/obo/NCBITaxon_37762,http://purl.obolibrary.org/obo/DOID_9256,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000053,http://purl.obolibrary.org/obo/DOID_9074,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000071,http://purl.obolibrary.org/obo/NCBITaxon_1502,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000168,http://purl.obolibrary.org/obo/NCBITaxon_76775,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_816,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted (compared to fibromyalgia patients) in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000234,http://purl.obolibrary.org/obo/NCBITaxon_407975,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_573,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000215,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OHMI_0000121,http://purl.obolibrary.org/obo/NCBITaxon_9606,part of
+http://purl.obolibrary.org/obo/OHMI_0000114,http://purl.obolibrary.org/obo/DOID_13189,has disease
+http://purl.obolibrary.org/obo/OHMI_0000184,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/NCBITaxon_584,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000208,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000174,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000219,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000076,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000175,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000132,http://purl.obolibrary.org/obo/NCBITaxon_397864,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000147,http://purl.obolibrary.org/obo/NCBITaxon_292632,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000216,http://purl.obolibrary.org/obo/NCBITaxon_32008,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000124,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000262,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0666666,http://purl.obolibrary.org/obo/CHEBI_33697,has_specified_output
+http://purl.obolibrary.org/obo/CL_0000010,http://purl.obolibrary.org/obo/OBI_0600036,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000198,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000240,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_7147,microbe susceptibly expanded in gut of rat with disease
+http://purl.obolibrary.org/obo/OHMI_0000064,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_9256,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OBI_0400103,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/OHMI_0000167,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000176,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000034,http://purl.obolibrary.org/obo/NCBITaxon_573,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000298,http://purl.obolibrary.org/obo/NCBITaxon_221102,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000268,http://purl.obolibrary.org/obo/NCBITaxon_363265,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000406,http://purl.obolibrary.org/obo/NCBITaxon_186801,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000309,http://purl.obolibrary.org/obo/NCBITaxon_613,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000048,http://purl.obolibrary.org/obo/NCBITaxon_1689,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000208,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000116,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000039,http://purl.obolibrary.org/obo/NCBITaxon_1681,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000205,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OHMI_0000316,http://purl.obolibrary.org/obo/NCBITaxon_329854,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000423,http://purl.obolibrary.org/obo/OBI_0302884,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000353,http://purl.obolibrary.org/obo/NCBITaxon_186802,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0000806,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000128,http://purl.obolibrary.org/obo/NCBITaxon_541000,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000318,http://purl.obolibrary.org/obo/NCBITaxon_28135,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000094,http://purl.obolibrary.org/obo/OBI_0000047,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000265,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000243,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000229,http://purl.obolibrary.org/obo/NCBITaxon_946234,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000204,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000177,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_172042,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000003,http://purl.obolibrary.org/obo/OHMI_0000463,has part
+http://purl.obolibrary.org/obo/NCBITaxon_84111,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000387,http://purl.obolibrary.org/obo/NCBITaxon_1898203,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000385,http://purl.obolibrary.org/obo/NCBITaxon_584,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0000275,inheres in
+http://purl.obolibrary.org/obo/OHMI_0000172,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000356,http://purl.obolibrary.org/obo/NCBITaxon_1239,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000417,http://purl.obolibrary.org/obo/NCBITaxon_1261,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000154,http://purl.obolibrary.org/obo/NCBITaxon_1263,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_1654,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/NCBITaxon_836,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000258,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/CL_0000578,http://purl.obolibrary.org/obo/OBI_0000094,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000021,http://purl.obolibrary.org/obo/OHMI_0000003,part of
+http://purl.obolibrary.org/obo/OHMI_0000181,http://purl.obolibrary.org/obo/OHMI_0000035,has quality
+http://purl.obolibrary.org/obo/OBI_0000659,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000111,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000133,http://purl.obolibrary.org/obo/NCBITaxon_115543,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000089,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000373,http://purl.obolibrary.org/obo/NCBITaxon_86331,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000039,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000225,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000156,http://purl.obolibrary.org/obo/NCBITaxon_74201,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000041,http://purl.obolibrary.org/obo/NCBITaxon_40545,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000036,http://purl.obolibrary.org/obo/UBERON_0000167,part of
+http://purl.obolibrary.org/obo/OHMI_0000333,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0000067,http://purl.obolibrary.org/obo/BFO_0000040,inheres in
+http://purl.obolibrary.org/obo/OHMI_0000147,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000386,http://purl.obolibrary.org/obo/NCBITaxon_28117,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000251,http://purl.obolibrary.org/obo/NCBITaxon_1827,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000248,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000420,http://purl.obolibrary.org/obo/NCBITaxon_837,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000235,http://purl.obolibrary.org/obo/NCBITaxon_306,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000245,http://purl.obolibrary.org/obo/NCBITaxon_200795,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000216,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_output
+http://purl.obolibrary.org/obo/OHMI_0000117,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000101,http://purl.obolibrary.org/obo/NCBITaxon_186803,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000390,http://purl.obolibrary.org/obo/NCBITaxon_28025,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000159,http://purl.obolibrary.org/obo/NCBITaxon_1301,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000293,http://purl.obolibrary.org/obo/NCBITaxon_44259,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000117,http://purl.obolibrary.org/obo/NCBITaxon_171549,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000421,http://purl.obolibrary.org/obo/NCBITaxon_970,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000087,http://purl.obolibrary.org/obo/NCBITaxon_538,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OBI_0000968,http://purl.obolibrary.org/obo/OBI_0000094,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000043,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000094,http://purl.obolibrary.org/obo/NCBITaxon_29465,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_165179,http://purl.obolibrary.org/obo/DOID_848,microbe susceptibly expanded in gut of mouse with disease
+http://purl.obolibrary.org/obo/OHMI_0000069,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OBI_0001051,http://purl.obolibrary.org/obo/OBI_0000257,is_specified_output_of
+http://purl.obolibrary.org/obo/OHMI_0000161,http://purl.obolibrary.org/obo/NCBITaxon_201174,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000257,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000255,http://purl.obolibrary.org/obo/MONDO_0019437,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000283,http://purl.obolibrary.org/obo/NCBITaxon_102148,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000204,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000416,http://purl.obolibrary.org/obo/NCBITaxon_851,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_1654,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000264,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000452,http://purl.obolibrary.org/obo/NCBITaxon_740,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000381,http://purl.obolibrary.org/obo/NCBITaxon_853,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000207,http://purl.obolibrary.org/obo/NCBITaxon_39948,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000107,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000070,http://purl.obolibrary.org/obo/NCBITaxon_186801,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000248,http://purl.obolibrary.org/obo/NCBITaxon_292628,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000412,http://purl.obolibrary.org/obo/NCBITaxon_301301,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_29465,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000198,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OBI_0001108,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/OHMI_0000229,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000225,http://purl.obolibrary.org/obo/NCBITaxon__28115,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000070,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000334,http://purl.obolibrary.org/obo/NCBITaxon_283168,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000210,http://purl.obolibrary.org/obo/NCBITaxon_200643,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000414,http://purl.obolibrary.org/obo/NCBITaxon_210,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000172,http://purl.obolibrary.org/obo/DOID_9074,located in
+http://purl.obolibrary.org/obo/OHMI_0000206,http://purl.obolibrary.org/obo/OHMI_0000035,located in
+http://purl.obolibrary.org/obo/OHMI_0000212,http://purl.obolibrary.org/obo/NCBITaxon_186801,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000230,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000270,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000181,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000050,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000129,http://purl.obolibrary.org/obo/NCBITaxon_1505663,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000066,http://purl.obolibrary.org/obo/NCBITaxon_74426,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000206,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000286,http://purl.obolibrary.org/obo/NCBITaxon_5204,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000393,http://purl.obolibrary.org/obo/NCBITaxon_1678,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000287,http://purl.obolibrary.org/obo/NCBITaxon_543311,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000217,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000250,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000223,http://purl.obolibrary.org/obo/NCBITaxon_158,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000458,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000263,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000063,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_766165,http://purl.obolibrary.org/obo/OHMI_0000130,participates in
+http://purl.obolibrary.org/obo/OHMI_0000281,http://purl.obolibrary.org/obo/NCBITaxon_10114,has disposition
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/CHEBI_33697,inheres in
+http://purl.obolibrary.org/obo/OHMI_0000109,http://purl.obolibrary.org/obo/NCBITaxon_28112,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000292,http://purl.obolibrary.org/obo/NCBITaxon_32067,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000246,http://purl.obolibrary.org/obo/NCBITaxon_292625,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000249,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000158,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000404,http://purl.obolibrary.org/obo/NCBITaxon_810,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000440,http://purl.obolibrary.org/obo/NCBITaxon_469,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000431,http://purl.obolibrary.org/obo/NCBITaxon_1764,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000130,http://purl.obolibrary.org/obo/NCBITaxon_766165,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000202,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/NCBITaxon_32008,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000382,http://purl.obolibrary.org/obo/NCBITaxon_572511,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/MONDO_0019437,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000148,http://purl.obolibrary.org/obo/NCBITaxon_588605,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000323,http://purl.obolibrary.org/obo/NCBITaxon_1264,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000219,http://purl.obolibrary.org/obo/NCBITaxon_1269,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000422,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000236,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000218,http://purl.obolibrary.org/obo/UBERON_0001005,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000290,http://purl.obolibrary.org/obo/NCBITaxon_1021,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0000671,http://purl.obolibrary.org/obo/UBERON_0000465,derives from
+http://purl.obolibrary.org/obo/NCBITaxon_32045,http://purl.obolibrary.org/obo/DOID_13250,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/IAO_0000109,http://purl.obolibrary.org/obo/OBI_0001933,has value specification
+http://purl.obolibrary.org/obo/OHMI_0000136,http://purl.obolibrary.org/obo/NCBITaxon_46205,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000403,http://purl.obolibrary.org/obo/NCBITaxon_302911,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_837,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000330,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0000079,has_specified_input
+http://purl.obolibrary.org/obo/OHMI_0000090,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000330,http://purl.obolibrary.org/obo/NCBITaxon_817,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000218,http://purl.obolibrary.org/obo/NCBITaxon_1847,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000395,http://purl.obolibrary.org/obo/NCBITaxon_561,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000361,http://purl.obolibrary.org/obo/NCBITaxon_171550,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000438,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000256,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000072,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000165,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000088,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000269,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000450,http://purl.obolibrary.org/obo/NCBITaxon_12916,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000135,http://purl.obolibrary.org/obo/NCBITaxon_244127,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000100,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000278,http://purl.obolibrary.org/obo/NCBITaxon_55194,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000449,http://purl.obolibrary.org/obo/NCBITaxon_89153,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000338,http://purl.obolibrary.org/obo/NCBITaxon_31979,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000227,http://purl.obolibrary.org/obo/NCBITaxon_194,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000138,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000175,http://purl.obolibrary.org/obo/OHMI_0000032,located in
+http://purl.obolibrary.org/obo/OHMI_0000185,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000187,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000108,http://purl.obolibrary.org/obo/NCBITaxon_28131,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000224,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000048,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/NCBITaxon_4896,http://purl.obolibrary.org/obo/OHMI_0000462,has quality
+http://purl.obolibrary.org/obo/OHMI_0000346,http://purl.obolibrary.org/obo/NCBITaxon_186803,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000378,http://purl.obolibrary.org/obo/NCBITaxon_541000,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_171552,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000400,http://purl.obolibrary.org/obo/NCBITaxon_194,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000368,http://purl.obolibrary.org/obo/NCBITaxon_203492,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000244,http://purl.obolibrary.org/obo/NCBITaxon_157,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000145,http://purl.obolibrary.org/obo/NCBITaxon_41978,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000194,http://purl.obolibrary.org/obo/DOID_848,has disposition
+http://purl.obolibrary.org/obo/NCBITaxon_32257,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000430,http://purl.obolibrary.org/obo/NCBITaxon_1897022,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_333367,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000376,http://purl.obolibrary.org/obo/NCBITaxon_84107,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000106,http://purl.obolibrary.org/obo/DOID_7147,has disposition
+http://purl.obolibrary.org/obo/OHMI_0000088,http://purl.obolibrary.org/obo/NCBITaxon_32257,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000429,http://purl.obolibrary.org/obo/NCBITaxon_29523,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000164,http://purl.obolibrary.org/obo/NCBITaxon_976,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000379,http://purl.obolibrary.org/obo/NCBITaxon_33958,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000029,http://purl.obolibrary.org/obo/DOID_7148,has disease
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly expanded in oral cavity of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000099,http://purl.obolibrary.org/obo/DOID_7147,has disease
+http://purl.obolibrary.org/obo/OHMI_0000294,http://purl.obolibrary.org/obo/NCBITaxon_200670,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000178,http://purl.obolibrary.org/obo/NCBITaxon_838,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000231,http://purl.obolibrary.org/obo/NCBITaxon_1872650,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000444,http://purl.obolibrary.org/obo/NCBITaxon_150247,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000204,http://purl.obolibrary.org/obo/DOID_848,located in
+http://purl.obolibrary.org/obo/OHMI_0000118,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000352,http://purl.obolibrary.org/obo/NCBITaxon_816,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000187,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000299,http://purl.obolibrary.org/obo/NCBITaxon_84108,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000196,http://purl.obolibrary.org/obo/NCBITaxon_10090,part of
+http://purl.obolibrary.org/obo/NCBITaxon_838,http://purl.obolibrary.org/obo/DOID_9074,microbe susceptibly expanded in gut of human with disease
+http://purl.obolibrary.org/obo/IAO_0000104,http://purl.obolibrary.org/obo/IAO_0000005,has part
+http://purl.obolibrary.org/obo/OHMI_0000075,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000251,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0000880,http://purl.obolibrary.org/obo/CHEBI_33697,has grain
+http://purl.obolibrary.org/obo/OHMI_0000113,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000143,http://purl.obolibrary.org/obo/NCBITaxon_853,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000038,http://purl.obolibrary.org/obo/NCBITaxon_171552,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0000684,achieves_planned_objective
+http://purl.obolibrary.org/obo/OHMI_0000247,http://purl.obolibrary.org/obo/NCBITaxon_292629,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000437,http://purl.obolibrary.org/obo/NCBITaxon_28901,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000277,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000237,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/OBI_0000112,has role
+http://purl.obolibrary.org/obo/OHMI_0000042,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000168,http://purl.obolibrary.org/obo/UBERON_0000014,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000019,http://purl.obolibrary.org/obo/OBI_0000725,has role
+http://purl.obolibrary.org/obo/OHMI_0000140,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000369,http://purl.obolibrary.org/obo/NCBITaxon_186804,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000163,http://purl.obolibrary.org/obo/NCBITaxon_1239,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000199,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000153,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/CHEBI_33696,has grain
+http://purl.obolibrary.org/obo/OHMI_0000221,http://purl.obolibrary.org/obo/NCBITaxon_472977,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000173,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000157,http://purl.obolibrary.org/obo/NCBITaxon_375288,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000448,http://purl.obolibrary.org/obo/NCBITaxon_89152,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000271,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000427,http://purl.obolibrary.org/obo/NCBITaxon_84521,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0100060,http://purl.obolibrary.org/obo/CL_0000010,has grain
+http://purl.obolibrary.org/obo/OHMI_0000002,http://purl.obolibrary.org/obo/NCBITaxon_9606,located in
+http://purl.obolibrary.org/obo/OHMI_0000438,http://purl.obolibrary.org/obo/NCBITaxon_1681,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/NCBITaxon_836,http://purl.obolibrary.org/obo/DOID_7148,microbe susceptibly depleted in respiratory airway of human with disease
+http://purl.obolibrary.org/obo/OHMI_0000120,http://purl.obolibrary.org/obo/NCBITaxon_909932,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OBI_0000725,http://purl.obolibrary.org/obo/OBI_0100026,inheres in
+http://purl.obolibrary.org/obo/OHMI_0000064,http://purl.obolibrary.org/obo/NCBITaxon_837,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000120,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000244,http://purl.obolibrary.org/obo/UBERON_0000167,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000211,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in
+http://purl.obolibrary.org/obo/OHMI_0000375,http://purl.obolibrary.org/obo/NCBITaxon_171552,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000365,http://purl.obolibrary.org/obo/NCBITaxon_586,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000189,http://purl.obolibrary.org/obo/UBERON_0004907,located in
+http://purl.obolibrary.org/obo/OHMI_0000240,http://purl.obolibrary.org/obo/NCBITaxon_28136,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000307,http://purl.obolibrary.org/obo/NCBITaxon_413496,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000186,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000155,http://purl.obolibrary.org/obo/NCBITaxon_46205,has microbe depleted in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000204,http://purl.obolibrary.org/obo/OHMI_0000032,has quality
+http://purl.obolibrary.org/obo/OHMI_0000436,http://purl.obolibrary.org/obo/NCBITaxon_197,has microbe expanded in diseased host
+http://purl.obolibrary.org/obo/OHMI_0000413,http://purl.obolibrary.org/obo/UBERON_0004907,occurs in

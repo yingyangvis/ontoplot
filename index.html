@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OntoPlot</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <script type="text/javascript" src="./lib/jquery.v3.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="./lib/d3.v4.min.js"></script>
+    <script type="text/javascript" src="./lib/d3-legend.min.js"></script>
+    <script type="text/javascript" src="./lib/vue.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+    <div class="wrapper">
+        <div class="inner-wrapper">
+
+            <div class="left pane">
+                <div class="row pre-scrollable">
+                    <h5>Ontologies</h5>
+                </div>
+                <div class="row pre-scrollable" style="max-height: 15vh; background-color: #f1f1f1;">
+                    <form id="onto_list">
+
+                        <!--<div class="form-check">-->
+                            <!--<input class="form-check-input" type="radio" name="an_onto" id="monash" value="monash" onclick="redrawByOnto()" >-->
+                            <!--<label class="form-check-label" for="monash">Monash Hierarchy</label>-->
+                        <!--</div>-->
+
+                        <!--<div class="form-check">-->
+                            <!--<input class="form-check-input" type="radio" name="an_onto" id="loop" value="loop"-->
+                                   <!--onclick="redrawByOnto()">-->
+                            <!--<label class="form-check-label" id="labelloop" for="loop">loop</label>-->
+                        <!--</div>-->
+
+                        <!--<div class="form-check">-->
+                        <!--<input class="form-check-input" type="radio" name="an_onto" id="GeoCoreOntology" value="GeoCoreOntology" onclick="redrawByOnto()" >-->
+                        <!--<label class="form-check-label" for="GeoCoreOntology">GeoCoreOntology</label>-->
+                        <!--</div>-->
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="sandbox" value="sandbox"
+                                   onclick="redrawByOnto()" checked>
+                            <label class="form-check-label" id="labelsandbox" for="sandbox">Sandbox</label>
+                        </div>
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="pizza" value="pizza"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelpizza" for="pizza">Pizza</label>
+                        </div>
+
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="cvdo" value="cvdo"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelcvdo" for="cvdo">CVDO</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="stato" value="stato"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelstato" for="stato">STATO</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="ocvdae" value="ocvdae"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelocvdae" for="ocvdae">OCVDAE</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="cido" value="cido"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelcido" for="cido">CIDO</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="vo" value="vo"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelvo" for="vo">VO</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="oae" value="oae"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labeloae" for="oae">OAE</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="odnae" value="odnae"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelodnae" for="odnae">ODNAE</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_onto" id="ohmi" value="ohmi"
+                                   onclick="redrawByOnto()">
+                            <label class="form-check-label" id="labelohmi" for="ohmi">OHMI</label>
+                        </div>
+                        <!--<div class="form-check">-->
+                            <!--<input class="form-check-input" type="radio" name="an_onto" id="go" value="go"-->
+                                   <!--onclick="redrawByOnto()">-->
+                            <!--<label class="form-check-label" id="labelgo" for="go">GO</label>-->
+                        <!--</div>-->
+                    </form>
+                </div>
+
+                <br>
+
+                <div class="row pre-scrollable">
+                    <h5>Object Properties</h5>
+                </div>
+                <div class="row pre-scrollable" id="property_div" style="max-height: 25vh; background-color: #f1f1f1;">
+                    <span id="property_list"></span>
+                </div>
+                <div class="row pre-scrollable" id="pseudo_property_div" style="opacity: 0; background-color: #f1f1f1;">
+                    <span id="pseudo_property_list"></span>
+                </div>
+                <div class="row pre-scrollable" id="operation_div" style="background-color: #f1f1f1;">
+                    <form>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_operation" id="union" value="union"
+                                   onclick="">
+                            <label class="form-check-label" for="union">Union</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="an_operation" id="intersection"
+                                   value="intersection" onclick="">
+                            <label class="form-check-label" for="intersection">Intersection</label>
+                        </div>
+                    </form>
+                </div>
+                <div class="row pre-scrollable" id="save_button_div" style="background-color: #f1f1f1;">
+                    <a class="operation_button" id="save_button" onclick="saveOperation()">Save</a>
+                </div>
+
+                <div class="row pre-scrollable" id="apply_button_div" style="background-color: #f1f1f1;">
+                    <button class="operation_button" id="apply_button" onclick="performOperation()">Apply</button>
+                </div>
+
+                <br>
+                <br>
+
+                <div class="row pre-scrollable">
+                    <div id="app">
+                        <div v-show="result">
+                            <!--<textarea id="test" name="test" rows="50" cols="50" autofocus>-->
+                            <!--{{result}}-->
+                            <!--</textarea>-->
+                        </div>
+                        <div>
+                            <input type="file" name="owlfile" id="fileuploader" @change="uploadFiles"/>
+                            <label class="file_button" for="fileuploader">Upload File</label>
+                        </div>
+                        <div v-show='error'>
+                            <!--<p>Please upload a file</p>-->
+                        </div>
+                    </div>
+                    <button class="file_button" onclick="exportSVG()">Export Vis</button>
+                </div>
+
+                <!--<br>-->
+
+                <!--<div style="display: none;">-->
+                    <!--<div class="row pre-scrollable">-->
+                        <!--<h5>Landscape Type</h5>-->
+                    <!--</div>-->
+                    <!--<div class="row pre-scrollable" style="max-height: 60vh;">-->
+                        <!--<form>-->
+                            <!--<div class="form-check">-->
+                                <!--<input class="form-check-input" type="radio" name="a_landscape" id="miniplot" value="miniplot" checked>-->
+                                <!--<label class="form-check-label" for="miniplot">Mini OntoPlot</label>-->
+                            <!--</div>-->
+                            <!--<div class="form-check">-->
+                                <!--<input class="form-check-input" type="radio" name="a_landscape" id="treemap" value="treemap" >-->
+                                <!--<label class="form-check-label" for="treemap">Mini Nested Treemap</label>-->
+                            <!--</div>-->
+                            <!--<div class="form-check">-->
+                                <!--<input class="form-check-input" type="radio" name="a_landscape" id="colour_treemap" value="colour_treemap" >-->
+                                <!--<label class="form-check-label" for="colour_treemap">Mini Colour Treemap</label>-->
+                            <!--</div>-->
+                        <!--</form>-->
+                    <!--</div>-->
+                <!--</div>-->
+
+            </div>
+
+
+            <div class="center pane" id="vis">
+                <div id="notification_bar">
+                    <div id="notification_text">place holder<button>FOCUS MODE</button></div>
+                </div>
+                <div id="ontoplot" onscroll="checkViewport()"></div>
+                <div id="path_button_div">
+                    <button class="float_button" id="path_button" style="color: #969696; background-color: white" ;
+                            onclick="checkPathButton()">Show Path Label
+                    </button>
+                </div>
+                <div id="label_button_div">
+                    <button class="float_button" id="label_button" style="color: #969696; background-color: white" ;
+                            onclick="checkAssButton()">Show Association Label
+                    </button>
+                </div>
+                <div id="reset_button_div">
+                    <button class="float_button" onclick="resetView()">Reset View</button>
+                </div>
+                <div class="direction_arrow" id="up_arrow" style="visibility: hidden">
+                    <a class="arrow up" onclick="getClicked()"></a>
+                </div>
+                <div class="direction_arrow" id="right_arrow" style="visibility: hidden">
+                    <a class="arrow right" onclick="getClicked()"></a>
+                </div>
+                <div class="direction_arrow" id="down_arrow" style="visibility: hidden">
+                    <a class="arrow down" onclick="getClicked()"></a>
+                </div>
+                <div class="direction_arrow" id="left_arrow" style="visibility: hidden">
+                    <a class="arrow left" onclick="getClicked()"></a>
+                </div>
+                <div id="loading">
+                    <button class="btn btn-outline-secondary"><span
+                            style="font-size: x-large">Preparing Visualisation...</span></button>
+                </div>
+                <div id="uploading" style="display: none">
+                    <button class="btn btn-outline-secondary"><span style="font-size: x-large">File Uploading...</span>
+                    </button>
+                </div>
+
+                <div id="minimap"></div>
+            </div>
+
+            <div class="right pane">
+                <div style="position: absolute; width: 94%;">
+                    <div class="row pre-scrollable">
+                        <h5>Search</h5>
+                        <input type="text" id="inputLabel" onkeyup="search(event.which)" placeholder="Search for labels...">
+                    </div>
+                    <div class="row pre-scrollable" id="searchResults"></div>
+
+
+                    <button class="collapsibleMenu" id="classInfoButton">Class Information</button>
+                    <div class="content">
+                        <div class="pre-scrollable">
+                            <h6>ID</h6>
+                            <div id="class_id"></div>
+                            <h6>Label</h6>
+                            <div id="class_label"></div>
+                            <h6>SubClassOf</h6>
+                            <div id="class_parents"></div>
+                            <h6>Association</h6>
+                            <div id="class_relations"></div>
+                        </div>
+                    </div>
+
+
+                    <button class="collapsibleMenu">Help</button>
+                    <div class="content">
+                        <div class="pre-scrollable">
+                            <h6>Glyph</h6>
+                            <ul>
+                                <li>
+                                    <svg height="20" width="20">
+                                        <circle cx="10" cy="10" r="10" style="fill:#969696;"/>
+                                    </svg>
+                                    <span> : </span>a class
+                                </li>
+                                <li>
+                                    <svg height="20" width="20">
+                                        <rect width="12" height="20" x="4" style="fill:#969696;"/>
+                                    </svg>
+                                    <span> : </span>a subtree that is a chain
+                                </li>
+                                <li>
+                                    <svg height="20" width="20">
+                                        <rect width="20" height="20" style="fill:#969696;"/>
+                                    </svg>
+                                    <span> : </span>multiple leaf classes
+                                </li>
+                                <li>
+                                    <svg height="20" width="20">
+                                        <polygon points="10,0 20,20 0,20" style="fill:#969696;"/>
+                                    </svg>
+                                    <span> : </span>a general subtree
+                                </li>
+                                <li>
+                                    <svg height="20" width="30">
+                                        <polygon points="10,0 14,8 18,0 28,20 0,20" style="fill:#969696;"/>
+                                    </svg>
+                                    <span> : </span>a set of sibling glyphs
+                                </li>
+                            </ul>
+                            <h6>Colour</h6>
+                            <ul>
+                                <li><span>Colour legend: </span>colour intensity indicates the number of associations on that
+                                    class
+                                </li>
+                                <li><span>Green: </span>identical classes with the click class (multiple inheritance)</li>
+                            </ul>
+                            <h6>Interaction</h6>
+                            <ul>
+                                <li><span>Select one or multiple properties: </span>click one or multiple object properties on
+                                    the list to see the distribution of the classes having the selected properties
+                                </li>
+                                <li><span>Select union operation for multiple properties: </span>show the classes having any of
+                                    the selected properties
+                                </li>
+                                <li><span>Select intersection operation for multiple properties: </span>show the classes having
+                                    all the selected properties
+                                </li>
+                                <li><span>Mouseover a class: </span>show the class label and other information</li>
+                                <li><span>Mouseover a glyph: </span>show the miniature of the compressed structure</li>
+                                <li><span>Click a class: </span>select a class and highlight the classes having association with
+                                    it
+                                </li>
+                                <li><span>Double-click a glyph: </span>collapse or expand it</li>
+                                <li><span>Collapse to a hill glyph after expanding it: </span>double-click the space above the
+                                    double lines
+                                </li>
+                                <li><span>Drag an association label: </span>mouseover the label and drag the label after seeing
+                                    the move cursor
+                                </li>
+                                <li><span>Click the minimap: </span>scroll the visualisation canvas to the clicked area if this
+                                    area has been scrolled off the screen
+                                </li>
+                            </ul>
+                            <h6>Function</h6>
+                            <ul>
+                                <li><span>Search class label: </span>perform partial match, can use '' '' for full string match
+                                </li>
+                                <li><span>Upload ontology: </span>upload an OWL file and visualise it</li>
+                                <li><span>Export visualisation: </span>download the visualisation canvas as an SVG file</li>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                    <div class="row pre-scrollable">
+                        <h5>No. of Associations:</h5>
+                        <div class="col-12" id="colourLegend"></div>
+                    </div>
+
+                    <div class="row pre-scrollable">
+                        <h5>Demo Video: </h5>
+                        <a href="https://www.youtube.com/watch?v=nRifboC54zU" target="_blank">Click this link to go to the video.</a>
+                    </div>
+
+                    <!--<div class="row pre-scrollable">-->
+                        <!--<h5 style="line-height:2em">Papers on OntoPlot: </h5>-->
+                        <!--<br>-->
+                        <!--<p>-->
+                            <!--<b>InfoVis 2019</b><br>-->
+                            <!--Yang, Y., Wybrow, M., Li, Y.-F., Czauderna, T. and He, Y. (2019). <em><a-->
+                                <!--href="https://ieeexplore.ieee.org/document/8809833" target="_blank">OntoPlot: A Novel-->
+                            <!--Visualisation for Non-hierarchical Associations in Large Ontologies</a></em>, IEEE Transactions on-->
+                            <!--Visualization and Computer Graphics 26(1): 1140–1150.-->
+                        <!--</p>-->
+                    <!--</div>-->
+
+                    <div class="row pre-scrollable">
+                        <h5>How to cite?</h5>
+                        <a href="https://ieeexplore.ieee.org/document/8809833" target="_blank">Click this link to cite this site.</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="./js/index.js"></script>
+    <script type="text/javascript" src="./js/upload.js"></script>
+    <script type="text/javascript" src="./js/ass_processing.js"></script>
+    <script type="text/javascript" src="./js/onto_processing.js"></script>
+    <script type="text/javascript" src="./js/reconstruct_hierarchy.js"></script>
+    <script type="text/javascript" src="./js/initial_compression.js"></script>
+    <script type="text/javascript" src="./js/ontoplot.js"></script>
+    <script type="text/javascript" src="./js/search.js"></script>
+    <script type="text/javascript" src="./js/mouseover.js"></script>
+    <script type="text/javascript" src="./js/glyph.js"></script>
+    <script type="text/javascript" src="./js/redraw.js"></script>
+    <script type="text/javascript" src="./js/infopanel.js"></script>
+    <!--<script type="text/javascript" src="./js/classeffect.js"></script>-->
+    <script type="text/javascript" src="./js/scroll.js"></script>
+    <script type="text/javascript" src="./js/label.js"></script>
+    <script type="text/javascript" src="./js/landscape.js"></script>
+    <script type="text/javascript" src="./js/treemap.js"></script>
+    <script type="text/javascript" src="./js/minimap.js"></script>
+    <script type="text/javascript" src="./js/brush.js"></script>
+    <script type="text/javascript" src="./js/hill_interaction.js"></script>
+    <script type="text/javascript" src="./js/collapse.js"></script>
+    <script type="text/javascript" src="./js/expand.js"></script>
+    <script type="text/javascript" src="./js/move.js"></script>
+    <script type="text/javascript" src="./js/label_alignment.js"></script>
+    <script type="text/javascript" src="./js/multi-nodes_selection.js"></script>
+    <script type="text/javascript" src="./js/property_list.js"></script>
+    <script type="text/javascript" src="./js/shadow.js"></script>
+    <script type="text/javascript" src="./js/drag.js"></script>
+    <script type="text/javascript" src="./js/notification.js"></script>
+    <script type="text/javascript" src="./js/single-node_selection.js"></script>
+    <script type="text/javascript" src="./js/get_ass.js"></script>
+    <script type="text/javascript" src="./js/colour.js"></script>
+    <script type="text/javascript" src="./js/alert.js"></script>
+    <script type="text/javascript" src="./js/show_direction.js"></script>
+    <script type="text/javascript" src="./js/box_highlighting.js"></script>
+    <script type="text/javascript" src="./js/identical_nodes.js"></script>
+    <script type="text/javascript" src="./js/progressive_label.js"></script>
+    <script type="text/javascript" src="./js/progressive_hierarchy.js"></script>
+    <script type="text/javascript" src="./js/property_operation.js"></script>
+
+</body>
+</html>

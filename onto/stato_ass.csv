@@ -1,0 +1,989 @@
+source,target,relation
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/IAO_0000100,has_specified_input
+http://purl.obolibrary.org/obo/IAO_0000144,http://purl.obolibrary.org/obo/OBI_0000338,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000436,http://purl.obolibrary.org/obo/STATO_0000225,denotes
+http://purl.obolibrary.org/obo/OBI_0600038,http://purl.obolibrary.org/obo/OBI_1110109,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000471,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000034,http://purl.obolibrary.org/obo/STATO_0000265,achieves
+http://purl.obolibrary.org/obo/STATO_0000186,http://purl.obolibrary.org/obo/OBI_0200111,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000157,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000490,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000177,http://purl.obolibrary.org/obo/STATO_0000436,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000508,http://purl.obolibrary.org/obo/STATO_0000096,preceded by
+http://purl.obolibrary.org/obo/OBI_0200163,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000245,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000496,http://purl.obolibrary.org/obo/STATO_0000494,computed from
+http://purl.obolibrary.org/obo/STATO_0000091,http://purl.obolibrary.org/obo/OBI_0001444,executes
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000237,is denoted by
+http://purl.obolibrary.org/obo/OBI_0200049,http://purl.obolibrary.org/obo/OBI_0001442,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0500003,http://purl.obolibrary.org/obo/OBI_0000750,achieves
+http://purl.obolibrary.org/obo/OBI_0001265,http://purl.obolibrary.org/obo/OBI_0200066,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000228,http://purl.obolibrary.org/obo/STATO_0000118,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000076,http://purl.obolibrary.org/obo/STATO_0000225,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000546,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/OBI_0000275,role of
+http://purl.obolibrary.org/obo/STATO_0000483,http://purl.obolibrary.org/obo/STATO_0000529,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000086,http://purl.obolibrary.org/obo/STATO_0000204,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000092,http://purl.obolibrary.org/obo/OBI_0000750,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000559,http://purl.obolibrary.org/obo/STATO_0000525,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000368,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/OBI_0200117,http://purl.obolibrary.org/obo/OBI_0200177,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0500011,http://purl.obolibrary.org/obo/OBI_0000750,declares
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000263,http://purl.obolibrary.org/obo/OBI_0200111,preceded by
+http://purl.obolibrary.org/obo/STATO_0000179,http://purl.obolibrary.org/obo/OBI_0000750,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/CHEBI_33697,has part
+http://purl.obolibrary.org/obo/STATO_0000246,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000337,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000280,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001305,http://purl.obolibrary.org/obo/OBI_0001364,has part
+http://purl.obolibrary.org/obo/IAO_0000572,http://purl.obolibrary.org/obo/IAO_0000030,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001305,http://purl.obolibrary.org/obo/OBI_0001225,has part
+http://purl.obolibrary.org/obo/STATO_0000491,http://purl.obolibrary.org/obo/STATO_0000094,preceded by
+http://purl.obolibrary.org/obo/IAO_0000572,http://purl.obolibrary.org/obo/IAO_0000310,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000274,http://purl.obolibrary.org/obo/STATO_0000134,denotes
+http://purl.obolibrary.org/obo/IAO_0000582,http://purl.obolibrary.org/obo/IAO_0000416,has time stamp
+http://purl.obolibrary.org/obo/STATO_0000261,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000135,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000295,http://purl.obolibrary.org/obo/STATO_0000255,part of
+http://purl.obolibrary.org/obo/STATO_0000036,http://purl.obolibrary.org/obo/IAO_0000100,achieves
+http://purl.obolibrary.org/obo/STATO_0000461,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000931,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/STATO_0000140,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000422,http://purl.obolibrary.org/obo/STATO_0000423,denotes
+http://purl.obolibrary.org/obo/STATO_0000207,http://purl.obolibrary.org/obo/STATO_0000208,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000200,http://purl.obolibrary.org/obo/OBI_0000673,achieves
+http://purl.obolibrary.org/obo/STATO_0000441,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000111,http://purl.obolibrary.org/obo/OBI_0000626,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000545,http://purl.obolibrary.org/obo/IAO_0000030,achieves
+http://purl.obolibrary.org/obo/OBI_0200119,http://purl.obolibrary.org/obo/OBI_0000674,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000498,http://purl.obolibrary.org/obo/OBI_0200201,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0500000,http://purl.obolibrary.org/obo/OBI_0000750,declares
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000220,http://purl.obolibrary.org/obo/OBI_0000673,achieves
+http://purl.obolibrary.org/obo/STATO_0000166,http://purl.obolibrary.org/obo/OBI_0000963,denotes
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000143,http://purl.obolibrary.org/obo/STATO_0000266,has part
+http://purl.obolibrary.org/obo/STATO_0000337,http://purl.obolibrary.org/obo/stato.owl#pedigree_data_set,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200050,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000480,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000261,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000082,http://purl.obolibrary.org/obo/OBI_0000751,has fixed effect on
+http://purl.obolibrary.org/obo/STATO_0000286,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000277,http://purl.obolibrary.org/obo/OBI_0001755,achieves
+http://purl.obolibrary.org/obo/STATO_0000013,http://purl.obolibrary.org/obo/STATO_0000020,has part
+http://purl.obolibrary.org/obo/STATO_0000275,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/STATO_0000036,achieves
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/STATO_0000107,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000284,http://purl.obolibrary.org/obo/STATO_0000108,has part
+http://purl.obolibrary.org/obo/STATO_0000083,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000174,http://purl.obolibrary.org/obo/STATO_0000155,preceded by
+http://purl.obolibrary.org/obo/STATO_0000310,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000275,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000384,http://purl.obolibrary.org/obo/STATO_0000383,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000500,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/STATO_0000472,has part
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/CHEBI_16991,role of
+http://purl.obolibrary.org/obo/STATO_0000494,http://purl.obolibrary.org/obo/OBI_0001305,achieves
+http://purl.obolibrary.org/obo/STATO_0000339,http://purl.obolibrary.org/obo/stato.owl#pedigree_data_set,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000100,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/STATO_0000060,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000082,http://purl.obolibrary.org/obo/OBI_0000750,achieves
+http://purl.obolibrary.org/obo/STATO_0000156,http://purl.obolibrary.org/obo/OBI_0200201,preceded by
+http://purl.obolibrary.org/obo/STATO_0000324,http://purl.obolibrary.org/obo/STATO_0000322,achieves
+http://purl.obolibrary.org/obo/STATO_0000275,http://purl.obolibrary.org/obo/STATO_0000257,has part
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000889,http://purl.obolibrary.org/obo/OBI_0000789,achieves
+http://purl.obolibrary.org/obo/stato.owl#pedigree_data_set,http://purl.obolibrary.org/obo/STATO_0000257,achieves
+http://purl.obolibrary.org/obo/STATO_0000338,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000151,http://purl.obolibrary.org/obo/IAO_0000100,achieves
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000453,http://purl.obolibrary.org/obo/IAO_0000109,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000059,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/GO_0010467,achieves
+http://purl.obolibrary.org/obo/STATO_0000037,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000532,http://purl.obolibrary.org/obo/STATO_0000218,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000302,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000204,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000182,http://purl.obolibrary.org/obo/OBI_0001404,achieves
+http://purl.obolibrary.org/obo/STATO_0000492,http://purl.obolibrary.org/obo/STATO_0000547,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/OBI_1000029,http://purl.obolibrary.org/obo/OBI_0000731,has grain
+http://purl.obolibrary.org/obo/OBI_0000789,http://purl.obolibrary.org/obo/STATO_0000047,achieves
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/STATO_0000176,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000323,http://purl.obolibrary.org/obo/STATO_0000322,has part
+http://purl.obolibrary.org/obo/STATO_0000153,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000135,http://purl.obolibrary.org/obo/STATO_0000277,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000299,http://purl.obolibrary.org/obo/OBI_0000673,precedes
+http://purl.obolibrary.org/obo/STATO_0000559,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000468,http://purl.obolibrary.org/obo/STATO_0000047,has order in sequence
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000086,has part
+http://purl.obolibrary.org/obo/STATO_0000438,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/OBI_0000338,http://purl.obolibrary.org/obo/OBI_0001909,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000673,http://purl.obolibrary.org/obo/STATO_0000207,has part
+http://purl.obolibrary.org/obo/OBI_0600015,http://purl.obolibrary.org/obo/OBI_0100026,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/IAO_0000401,http://purl.obolibrary.org/obo/BFO_0000018,part of
+http://purl.obolibrary.org/obo/OBI_0000185,http://purl.obolibrary.org/obo/OBI_0000441,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000280,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000298,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000086,http://purl.obolibrary.org/obo/STATO_0000282,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200041,http://purl.obolibrary.org/obo/OBI_0200172,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000484,http://purl.obolibrary.org/obo/STATO_0000334,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000253,http://purl.obolibrary.org/obo/STATO_0000062,has part
+http://purl.obolibrary.org/obo/STATO_0000372,http://purl.obolibrary.org/obo/STATO_0000108,part of
+http://purl.obolibrary.org/obo/STATO_0000181,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000168,http://purl.obolibrary.org/obo/STATO_0000244,denotes
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/IAO_0000584,denotes
+http://purl.obolibrary.org/obo/STATO_0000219,http://purl.obolibrary.org/obo/CHEBI_33696,achieves
+http://purl.obolibrary.org/obo/STATO_0000483,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000931,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000094,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000299,http://purl.obolibrary.org/obo/STATO_0000116,precedes
+http://purl.obolibrary.org/obo/STATO_0000024,http://purl.obolibrary.org/obo/STATO_0000018,has part
+http://purl.obolibrary.org/obo/OBI_0600014,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000407,http://purl.obolibrary.org/obo/STATO_0000007,denotes
+http://purl.obolibrary.org/obo/STATO_0000141,http://purl.obolibrary.org/obo/OBI_0500014,executes
+http://purl.obolibrary.org/obo/STATO_0000042,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000422,http://purl.obolibrary.org/obo/STATO_0000155,preceded by
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000234,achieves
+http://purl.obolibrary.org/obo/STATO_0000037,http://purl.obolibrary.org/obo/STATO_0000401,achieves
+http://purl.obolibrary.org/obo/STATO_0000469,http://purl.obolibrary.org/obo/STATO_0000047,has order in sequence
+http://purl.obolibrary.org/obo/STATO_0000383,http://purl.obolibrary.org/obo/STATO_0000384,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000277,http://purl.obolibrary.org/obo/STATO_0000279,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0000931,http://purl.obolibrary.org/obo/OBI_0000115,concretizes
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/STATO_0000199,preceded by
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000088,has quality
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000085,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000455,http://purl.obolibrary.org/obo/STATO_0000144,achieves
+http://purl.obolibrary.org/obo/STATO_0000378,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/STATO_0000336,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000086,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000130,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0400043,http://purl.obolibrary.org/obo/OBI_0000370,has function
+http://purl.obolibrary.org/obo/STATO_0000310,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000461,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/STATO_0000385,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000302,http://purl.obolibrary.org/obo/STATO_0000176,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000112,http://purl.obolibrary.org/obo/STATO_0000006,denotes
+http://purl.obolibrary.org/obo/STATO_0000490,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200119,http://purl.obolibrary.org/obo/OBI_0200177,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000277,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000086,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000401,http://purl.obolibrary.org/obo/BFO_0000026,part of
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000337,http://purl.obolibrary.org/obo/STATO_0000107,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000075,http://purl.obolibrary.org/obo/STATO_0000008,denotes
+http://purl.obolibrary.org/obo/OBI_0400082,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/STATO_0000470,http://purl.obolibrary.org/obo/STATO_0000346,is modeled by
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/STATO_0000211,has part
+http://purl.obolibrary.org/obo/OBI_0600014,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000302,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000040,http://purl.obolibrary.org/obo/STATO_0000188,denotes
+http://purl.obolibrary.org/obo/STATO_0000181,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000176,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/STATO_0000140,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000077,http://purl.obolibrary.org/obo/STATO_0000058,achieves
+http://purl.obolibrary.org/obo/STATO_0000484,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000059,http://purl.obolibrary.org/obo/STATO_0000500,is denoted by
+http://purl.obolibrary.org/obo/IAO_0000032,http://purl.obolibrary.org/obo/OBI_0001931,has value specification
+http://purl.obolibrary.org/obo/OBI_0000164,http://purl.obolibrary.org/obo/OBI_0600064,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000187,http://purl.obolibrary.org/obo/STATO_0000061,achieves
+http://purl.obolibrary.org/obo/STATO_0000213,http://purl.obolibrary.org/obo/STATO_0000251,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000175,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000239,http://purl.obolibrary.org/obo/STATO_0000279,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000328,http://purl.obolibrary.org/obo/IAO_0000100,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0500000,http://purl.obolibrary.org/obo/OBI_0000272,has part
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000150,achieves
+http://purl.obolibrary.org/obo/STATO_0000092,http://purl.obolibrary.org/obo/STATO_0000253,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0001143,http://purl.obolibrary.org/obo/CHEBI_33696,has grain
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/OBI_0001305,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000286,http://purl.obolibrary.org/obo/STATO_0000294,has part
+http://purl.obolibrary.org/obo/STATO_0000233,http://purl.obolibrary.org/obo/OBI_0000673,achieves
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000088,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000062,http://purl.obolibrary.org/obo/STATO_0000253,part of
+http://purl.obolibrary.org/obo/IAO_0000578,http://purl.obolibrary.org/obo/IAO_0000579,denotes
+http://purl.obolibrary.org/obo/STATO_0000432,http://purl.obolibrary.org/obo/STATO_0000426,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0001331,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000544,http://purl.obolibrary.org/obo/STATO_0000113,achieves
+http://purl.obolibrary.org/obo/OBI_0500003,http://purl.obolibrary.org/obo/IAO_0000584,achieves
+http://purl.obolibrary.org/obo/OBI_0400079,http://purl.obolibrary.org/obo/OBI_0000378,has function
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/CL_0000000,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200051,http://purl.obolibrary.org/obo/STATO_0000113,achieves
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000256,http://purl.obolibrary.org/obo/STATO_0000063,denotes
+http://purl.obolibrary.org/obo/STATO_0000078,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000430,http://purl.obolibrary.org/obo/STATO_0000099,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000091,http://purl.obolibrary.org/obo/STATO_0000027,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000107,http://purl.obolibrary.org/obo/OBI_0000751,is model for
+http://purl.obolibrary.org/obo/STATO_0000022,http://purl.obolibrary.org/obo/STATO_0000006,has part
+http://purl.obolibrary.org/obo/OBI_0000938,http://purl.obolibrary.org/obo/OBI_0001930,has value specification
+http://purl.obolibrary.org/obo/OBI_0001225,http://purl.obolibrary.org/obo/OBI_0001305,part of
+http://purl.obolibrary.org/obo/STATO_0000298,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000098,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000282,http://purl.obolibrary.org/obo/STATO_0000086,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000080,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000577,http://purl.obolibrary.org/obo/IAO_0000578,part of
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0000456,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000582,http://purl.obolibrary.org/obo/OBI_0001305,has part
+http://purl.obolibrary.org/obo/STATO_0000401,http://purl.obolibrary.org/obo/STATO_0000402,estimate of
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/STATO_0000083,preceded by
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0200042,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000075,http://purl.obolibrary.org/obo/OBI_0200111,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000481,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000098,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0000737,http://purl.obolibrary.org/obo/OBI_0000094,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000042,http://purl.obolibrary.org/obo/IAO_0000100,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000040,http://purl.obolibrary.org/obo/OBI_0000650,preceded by
+http://purl.obolibrary.org/obo/STATO_0000108,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000445,http://purl.obolibrary.org/obo/OBI_0000750,achieves
+http://purl.obolibrary.org/obo/OBI_0200119,http://purl.obolibrary.org/obo/STATO_0000574,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000584,http://purl.obolibrary.org/obo/STATO_0000559,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000210,http://purl.obolibrary.org/obo/OBI_0000010,has numerator
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000200,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000338,http://purl.obolibrary.org/obo/STATO_0000343,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000274,http://purl.obolibrary.org/obo/STATO_0000008,denotes
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000078,http://purl.obolibrary.org/obo/STATO_0000226,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0002444,http://purl.obolibrary.org/obo/BFO_0000040,role of
+http://purl.obolibrary.org/obo/STATO_0000287,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000030,http://purl.obolibrary.org/obo/OBI_0200200,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000206,http://purl.obolibrary.org/obo/OBI_0001271,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200036,http://purl.obolibrary.org/obo/OBI_0000662,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000066,http://purl.obolibrary.org/obo/OBI_0500000,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000436,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000256,http://purl.obolibrary.org/obo/STATO_0000006,denotes
+http://purl.obolibrary.org/obo/OBI_0000889,http://purl.obolibrary.org/obo/STATO_0000008,denotes
+http://purl.obolibrary.org/obo/STATO_0000094,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000076,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000066,http://purl.obolibrary.org/obo/IAO_0000572,has part
+http://purl.obolibrary.org/obo/STATO_0000109,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/OBI_0200066,http://purl.obolibrary.org/obo/OBI_0001265,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0500002,http://purl.obolibrary.org/obo/STATO_0000253,has part
+http://purl.obolibrary.org/obo/STATO_0000201,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/STATO_0000119,has part
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000151,achieves
+http://purl.obolibrary.org/obo/STATO_0000433,http://purl.obolibrary.org/obo/OBI_0500005,achieves
+http://purl.obolibrary.org/obo/OBI_0000727,http://purl.obolibrary.org/obo/OBI_0000648,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0100060,http://purl.obolibrary.org/obo/OBI_0600024,is_specified_output_of
+http://purl.obolibrary.org/obo/IAO_0000104,http://purl.obolibrary.org/obo/IAO_0000007,has part
+http://purl.obolibrary.org/obo/STATO_0000408,http://purl.obolibrary.org/obo/STATO_0000409,denotes
+http://purl.obolibrary.org/obo/STATO_0000408,http://purl.obolibrary.org/obo/STATO_0000134,denotes
+http://purl.obolibrary.org/obo/OBI_0200000,http://purl.obolibrary.org/obo/IAO_0000027,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000379,http://purl.obolibrary.org/obo/STATO_0000328,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0600038,http://purl.obolibrary.org/obo/OBI_0001936,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000153,http://purl.obolibrary.org/obo/STATO_0000132,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000377,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/STATO_0000263,http://purl.obolibrary.org/obo/STATO_0000037,denotes
+http://purl.obolibrary.org/obo/STATO_0000078,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0200104,http://purl.obolibrary.org/obo/OBI_0000648,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000263,http://purl.obolibrary.org/obo/STATO_0000155,preceded by
+http://purl.obolibrary.org/obo/STATO_0000104,http://purl.obolibrary.org/obo/IAO_0000100,achieves
+http://purl.obolibrary.org/obo/STATO_0000286,http://purl.obolibrary.org/obo/OBI_0000675,has part
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000316,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000266,http://purl.obolibrary.org/obo/STATO_0000143,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000254,http://purl.obolibrary.org/obo/OBI_0001352,achieves
+http://purl.obolibrary.org/obo/STATO_0000196,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000490,http://purl.obolibrary.org/obo/OBI_0200201,preceded by
+http://purl.obolibrary.org/obo/OBI_0200049,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000482,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/CHEBI_16991,has part
+http://purl.obolibrary.org/obo/STATO_0000144,http://purl.obolibrary.org/obo/STATO_0000034,estimate of
+http://purl.obolibrary.org/obo/STATO_0000261,http://purl.obolibrary.org/obo/OBI_0200201,preceded by
+http://purl.obolibrary.org/obo/STATO_0000219,http://purl.obolibrary.org/obo/IAO_0000414,achieves
+http://purl.obolibrary.org/obo/STATO_0000546,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000861,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000376,http://purl.obolibrary.org/obo/STATO_0000052,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000408,http://purl.obolibrary.org/obo/STATO_0000417,denotes
+http://purl.obolibrary.org/obo/OBI_0000338,http://purl.obolibrary.org/obo/IAO_0000027,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000156,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000429,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000582,http://purl.obolibrary.org/obo/STATO_0000534,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000789,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/STATO_0000099,http://purl.obolibrary.org/obo/STATO_0000221,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000058,http://purl.obolibrary.org/obo/STATO_0000224,part of
+http://purl.obolibrary.org/obo/STATO_0000444,http://purl.obolibrary.org/obo/STATO_0000248,declares
+http://purl.obolibrary.org/obo/STATO_0000575,http://purl.obolibrary.org/obo/OBI_0200104,part of
+http://purl.obolibrary.org/obo/OBI_0500000,http://purl.obolibrary.org/obo/OBI_0000066,achieves
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000264,http://purl.obolibrary.org/obo/STATO_0000265,has part
+http://purl.obolibrary.org/obo/OBI_0000094,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000445,http://purl.obolibrary.org/obo/STATO_0000248,declares
+http://purl.obolibrary.org/obo/OBI_0200066,http://purl.obolibrary.org/obo/OBI_0000791,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000527,http://purl.obolibrary.org/obo/OBI_0200201,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000183,http://purl.obolibrary.org/obo/STATO_0000217,has part
+http://purl.obolibrary.org/obo/OBI_0400153,http://purl.obolibrary.org/obo/OBI_0000403,has function
+http://purl.obolibrary.org/obo/STATO_0000572,http://purl.obolibrary.org/obo/STATO_0000565,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000200,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000274,http://purl.obolibrary.org/obo/STATO_0000233,denotes
+http://purl.obolibrary.org/obo/STATO_0000024,http://purl.obolibrary.org/obo/STATO_0000012,has part
+http://purl.obolibrary.org/obo/OBI_0000443,http://purl.obolibrary.org/obo/IAO_0000109,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000289,http://purl.obolibrary.org/obo/OBI_0000750,denotes
+http://purl.obolibrary.org/obo/OBI_0000652,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000750,http://purl.obolibrary.org/obo/IAO_0000100,has part
+http://purl.obolibrary.org/obo/STATO_0000080,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000098,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000010,http://purl.obolibrary.org/obo/BFO_0000006,achieves
+http://purl.obolibrary.org/obo/STATO_0000144,http://purl.obolibrary.org/obo/STATO_0000119,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000157,http://purl.obolibrary.org/obo/OBI_0200201,preceded by
+http://purl.obolibrary.org/obo/STATO_0000437,http://purl.obolibrary.org/obo/STATO_0000435,estimate of
+http://purl.obolibrary.org/obo/STATO_0000153,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000157,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000567,http://purl.obolibrary.org/obo/STATO_0000568,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/GO_0010467,achieves
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/IAO_0000402,http://purl.obolibrary.org/obo/BFO_0000018,part of
+http://purl.obolibrary.org/obo/OBI_0600064,http://purl.obolibrary.org/obo/OBI_0000456,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000174,http://purl.obolibrary.org/obo/STATO_0000085,denotes
+http://purl.obolibrary.org/obo/STATO_0000501,http://purl.obolibrary.org/obo/STATO_0000436,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000546,http://purl.obolibrary.org/obo/STATO_0000542,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000094,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000057,http://purl.obolibrary.org/obo/OBI_0000675,part of
+http://purl.obolibrary.org/obo/STATO_0000440,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000973,http://purl.obolibrary.org/obo/SO_0000001,achieves
+http://purl.obolibrary.org/obo/STATO_0000099,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/CHEBI_33697,role of
+http://purl.obolibrary.org/obo/STATO_0000467,http://purl.obolibrary.org/obo/STATO_0000047,has order in sequence
+http://purl.obolibrary.org/obo/OBI_0000339,http://purl.obolibrary.org/obo/IAO_0000104,has participant
+http://purl.obolibrary.org/obo/OBI_0200051,http://purl.obolibrary.org/obo/STATO_0000569,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000501,http://purl.obolibrary.org/obo/STATO_0000500,is denoted by
+http://purl.obolibrary.org/obo/OBI_0001909,http://purl.obolibrary.org/obo/IAO_0000027,is_supported_by_data
+http://purl.obolibrary.org/obo/OBI_0000066,http://purl.obolibrary.org/obo/OBI_0000471,has part
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000123,http://purl.obolibrary.org/obo/STATO_0000147,part of
+http://purl.obolibrary.org/obo/OBI_0001573,http://purl.obolibrary.org/obo/OBI_0000811,achieves
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/STATO_0000439,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0001404,http://purl.obolibrary.org/obo/OBI_0100026,part of
+http://purl.obolibrary.org/obo/OBI_0001444,http://purl.obolibrary.org/obo/OBI_0001305,achieves
+http://purl.obolibrary.org/obo/STATO_0000161,http://purl.obolibrary.org/obo/STATO_0000028,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000172,http://purl.obolibrary.org/obo/OBI_0000722,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000092,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0200051,http://purl.obolibrary.org/obo/STATO_0000568,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000119,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000174,http://purl.obolibrary.org/obo/OBI_0200111,preceded by
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/STATO_0000297,has part
+http://purl.obolibrary.org/obo/STATO_0000462,http://purl.obolibrary.org/obo/STATO_0000047,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000070,http://purl.obolibrary.org/obo/OBI_0000067,has role
+http://purl.obolibrary.org/obo/OBI_0001172,http://purl.obolibrary.org/obo/OBI_0200111,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000216,http://purl.obolibrary.org/obo/STATO_0000096,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000112,http://purl.obolibrary.org/obo/OBI_0200111,preceded by
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000565,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/OBI_0666667,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000533,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400043,has part
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000246,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0302884,http://purl.obolibrary.org/obo/OBI_0000681,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000544,http://purl.obolibrary.org/obo/IAO_0000030,achieves
+http://purl.obolibrary.org/obo/STATO_0000083,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000142,http://purl.obolibrary.org/obo/STATO_0000237,achieves
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/stato.owl#partial_least_squares_weight,http://purl.obolibrary.org/obo/STATO_0000572,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000213,http://purl.obolibrary.org/obo/IAO_0000055,executes
+http://purl.obolibrary.org/obo/STATO_0000083,http://purl.obolibrary.org/obo/STATO_0000067,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000261,http://purl.obolibrary.org/obo/STATO_0000023,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000268,http://purl.obolibrary.org/obo/STATO_0000436,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000176,http://purl.obolibrary.org/obo/OBI_0000739,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000075,http://purl.obolibrary.org/obo/STATO_0000047,achieves
+http://purl.obolibrary.org/obo/STATO_0000338,http://purl.obolibrary.org/obo/STATO_0000534,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000580,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000096,http://purl.obolibrary.org/obo/OBI_0000744,precedes
+http://purl.obolibrary.org/obo/STATO_0000040,http://purl.obolibrary.org/obo/STATO_0000105,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000234,achieves
+http://purl.obolibrary.org/obo/IAO_0000015,http://purl.obolibrary.org/obo/STATO_0000390,part of
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000176,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0100026,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000310,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/STATO_0000437,http://purl.obolibrary.org/obo/STATO_0000435,achieves
+http://purl.obolibrary.org/obo/OBI_0500005,http://purl.obolibrary.org/obo/OBI_0000097,has role
+http://purl.obolibrary.org/obo/STATO_0000435,http://purl.obolibrary.org/obo/STATO_0000225,denotes
+http://purl.obolibrary.org/obo/STATO_0000139,http://purl.obolibrary.org/obo/STATO_0000038,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0400137,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/STATO_0000091,http://purl.obolibrary.org/obo/STATO_0000254,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000113,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000378,http://purl.obolibrary.org/obo/STATO_0000328,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0001444,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000153,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000182,http://purl.obolibrary.org/obo/BFO_0000016,achieves
+http://purl.obolibrary.org/obo/STATO_0000582,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000094,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000316,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000583,http://purl.obolibrary.org/obo/STATO_0000517,has part
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000167,achieves
+http://purl.obolibrary.org/obo/STATO_0000136,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000284,http://purl.obolibrary.org/obo/STATO_0000107,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000136,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000431,http://purl.obolibrary.org/obo/STATO_0000099,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000572,http://purl.obolibrary.org/obo/STATO_0000556,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000238,http://purl.obolibrary.org/obo/STATO_0000277,has part
+http://purl.obolibrary.org/obo/STATO_0000077,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001172,http://purl.obolibrary.org/obo/STATO_0000006,denotes
+http://purl.obolibrary.org/obo/STATO_0000122,http://purl.obolibrary.org/obo/STATO_0000257,achieves
+http://purl.obolibrary.org/obo/STATO_0000567,http://purl.obolibrary.org/obo/STATO_0000569,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0500002,http://purl.obolibrary.org/obo/STATO_0000121,has part
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0100051,has part
+http://purl.obolibrary.org/obo/STATO_0000080,http://purl.obolibrary.org/obo/OBI_0200119,has part
+http://purl.obolibrary.org/obo/STATO_0000245,http://purl.obolibrary.org/obo/BFO_0000016,achieves
+http://purl.obolibrary.org/obo/STATO_0000077,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000407,http://purl.obolibrary.org/obo/STATO_0000409,denotes
+http://purl.obolibrary.org/obo/STATO_0000199,http://purl.obolibrary.org/obo/STATO_0000183,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000374,http://purl.obolibrary.org/obo/STATO_0000108,part of
+http://purl.obolibrary.org/obo/STATO_0000112,http://purl.obolibrary.org/obo/STATO_0000155,preceded by
+http://purl.obolibrary.org/obo/STATO_0000098,http://purl.obolibrary.org/obo/STATO_0000132,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0500000,http://purl.obolibrary.org/obo/STATO_0000193,denotes
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/STATO_0000376,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000426,http://purl.obolibrary.org/obo/STATO_0000421,estimate of
+http://purl.obolibrary.org/obo/STATO_0000585,http://purl.obolibrary.org/obo/OBI_0000673,part of
+http://purl.obolibrary.org/obo/STATO_0000187,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000490,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001143,http://purl.obolibrary.org/obo/OBI_0001010,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000083,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400079,has part
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000193,has quality
+http://purl.obolibrary.org/obo/OBI_0400110,http://purl.obolibrary.org/obo/OBI_0000370,has function
+http://purl.obolibrary.org/obo/STATO_0000392,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000444,http://purl.obolibrary.org/obo/OBI_0000750,achieves
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/OBI_0500007,achieves
+http://purl.obolibrary.org/obo/STATO_0000462,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000626,http://purl.obolibrary.org/obo/OBI_0000441,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000139,http://purl.obolibrary.org/obo/STATO_0000278,executes
+http://purl.obolibrary.org/obo/OBI_0200102,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000289,http://purl.obolibrary.org/obo/OBI_0500000,denotes
+http://purl.obolibrary.org/obo/STATO_0000468,http://purl.obolibrary.org/obo/STATO_0000582,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0200117,http://purl.obolibrary.org/obo/OBI_0000674,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000578,http://purl.obolibrary.org/obo/IAO_0000577,has part
+http://purl.obolibrary.org/obo/OBI_0001143,http://purl.obolibrary.org/obo/OBI_0000112,has role
+http://purl.obolibrary.org/obo/IAO_0000033,http://purl.obolibrary.org/obo/BFO_0000017,achieves
+http://purl.obolibrary.org/obo/OBI_0200119,http://purl.obolibrary.org/obo/OBI_0200078,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000290,http://purl.obolibrary.org/obo/STATO_0000218,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0200104,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000470,http://purl.obolibrary.org/obo/STATO_0000107,is declared by
+http://purl.obolibrary.org/obo/OBI_0400137,http://purl.obolibrary.org/obo/OBI_0400079,has part
+http://purl.obolibrary.org/obo/STATO_0000210,http://purl.obolibrary.org/obo/OBI_0000010,has denominator
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/STATO_0000296,has part
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400082,has part
+http://purl.obolibrary.org/obo/OBI_0600064,http://purl.obolibrary.org/obo/OBI_0000737,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000075,http://purl.obolibrary.org/obo/OBI_0100026,achieves
+http://purl.obolibrary.org/obo/STATO_0000223,http://purl.obolibrary.org/obo/OBI_0000181,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200051,http://purl.obolibrary.org/obo/STATO_0000556,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0500005,http://purl.obolibrary.org/obo/BFO_0000040,has role
+http://purl.obolibrary.org/obo/OBI_0000673,http://purl.obolibrary.org/obo/OBI_0001834,has part
+http://purl.obolibrary.org/obo/STATO_0000038,http://purl.obolibrary.org/obo/STATO_0000139,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0200117,http://purl.obolibrary.org/obo/OBI_0200078,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000088,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0500005,http://purl.obolibrary.org/obo/STATO_0000248,has role
+http://purl.obolibrary.org/obo/STATO_0000294,http://purl.obolibrary.org/obo/STATO_0000255,part of
+http://purl.obolibrary.org/obo/STATO_0000263,http://purl.obolibrary.org/obo/STATO_0000085,denotes
+http://purl.obolibrary.org/obo/STATO_0000384,http://purl.obolibrary.org/obo/STATO_0000290,achieves
+http://purl.obolibrary.org/obo/STATO_0000187,http://purl.obolibrary.org/obo/OBI_0200201,preceded by
+http://purl.obolibrary.org/obo/STATO_0000107,http://purl.obolibrary.org/obo/STATO_0000218,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000186,http://purl.obolibrary.org/obo/STATO_0000071,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000310,http://purl.obolibrary.org/obo/STATO_0000103,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000121,http://purl.obolibrary.org/obo/STATO_0000056,has part
+http://purl.obolibrary.org/obo/OBI_0001834,http://purl.obolibrary.org/obo/IAO_0000030,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000251,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0600064,http://purl.obolibrary.org/obo/OBI_0000731,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000968,http://purl.obolibrary.org/obo/BFO_0000034,has function
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/CHEBI_33697,has part
+http://purl.obolibrary.org/obo/OBI_0500011,http://purl.obolibrary.org/obo/STATO_0000517,has part
+http://purl.obolibrary.org/obo/STATO_0000249,http://purl.obolibrary.org/obo/OBI_0302903,has part
+http://purl.obolibrary.org/obo/STATO_0000181,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000533,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000274,http://purl.obolibrary.org/obo/OBI_0000444,has role
+http://purl.obolibrary.org/obo/STATO_0000094,http://purl.obolibrary.org/obo/OBI_0000751,has_specified_input
+http://purl.obolibrary.org/obo/IAO_0000144,http://purl.obolibrary.org/obo/IAO_0000027,is_supported_by_data
+http://purl.obolibrary.org/obo/STATO_0000368,http://purl.obolibrary.org/obo/STATO_0000328,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000178,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000130,http://purl.obolibrary.org/obo/STATO_0000173,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001444,http://purl.obolibrary.org/obo/OBI_0000113,has part
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000186,http://purl.obolibrary.org/obo/OBI_0200000,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0000066,http://purl.obolibrary.org/obo/OBI_0000338,has part
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000453,http://purl.obolibrary.org/obo/OBI_0000047,function of
+http://purl.obolibrary.org/obo/STATO_0000195,http://purl.obolibrary.org/obo/STATO_0000264,achieves
+http://purl.obolibrary.org/obo/STATO_0000327,http://purl.obolibrary.org/obo/STATO_0000328,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000075,http://purl.obolibrary.org/obo/OBI_0100026,denotes
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000207,has part
+http://purl.obolibrary.org/obo/OBI_0500013,http://purl.obolibrary.org/obo/STATO_0000517,has part
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/STATO_0000086,has part
+http://purl.obolibrary.org/obo/OBI_0000175,http://purl.obolibrary.org/obo/OBI_0000673,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000493,http://purl.obolibrary.org/obo/OBI_0001305,achieves
+http://purl.obolibrary.org/obo/STATO_0000320,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000092,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200041,http://purl.obolibrary.org/obo/OBI_0000648,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000096,http://purl.obolibrary.org/obo/STATO_0000124,executes
+http://purl.obolibrary.org/obo/OBI_0000675,http://purl.obolibrary.org/obo/STATO_0000288,has part
+http://purl.obolibrary.org/obo/STATO_0000343,http://purl.obolibrary.org/obo/OBI_0001305,has part
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000139,has part
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000161,achieves
+http://purl.obolibrary.org/obo/OBI_0000112,http://purl.obolibrary.org/obo/OBI_0000659,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000246,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000170,achieves
+http://purl.obolibrary.org/obo/STATO_0000141,http://purl.obolibrary.org/obo/STATO_0000279,preceded by
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000234,http://purl.obolibrary.org/obo/STATO_0000242,achieves
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/STATO_0000251,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000659,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000130,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0400103,has participant
+http://purl.obolibrary.org/obo/STATO_0000149,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000229,http://purl.obolibrary.org/obo/STATO_0000069,has part
+http://purl.obolibrary.org/obo/STATO_0000136,http://purl.obolibrary.org/obo/STATO_0000173,achieves_planned_objective
+http://purl.obolibrary.org/obo/IAO_0000402,http://purl.obolibrary.org/obo/BFO_0000009,part of
+http://purl.obolibrary.org/obo/STATO_0000251,http://purl.obolibrary.org/obo/IAO_0000032,has part
+http://purl.obolibrary.org/obo/STATO_0000383,http://purl.obolibrary.org/obo/STATO_0000322,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000482,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/OBI_0001172,http://purl.obolibrary.org/obo/OBI_0000984,denotes
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/STATO_0000013,http://purl.obolibrary.org/obo/STATO_0000008,has part
+http://purl.obolibrary.org/obo/OBI_0000889,http://purl.obolibrary.org/obo/IAO_0000416,denotes
+http://purl.obolibrary.org/obo/STATO_0000260,http://purl.obolibrary.org/obo/STATO_0000100,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000582,http://purl.obolibrary.org/obo/IAO_0000109,has measurement datum
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/OBI_0000164,http://purl.obolibrary.org/obo/OBI_0000731,has grain
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/STATO_0000252,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000441,http://purl.obolibrary.org/obo/STATO_0000083,preceded by
+http://purl.obolibrary.org/obo/STATO_0000039,http://purl.obolibrary.org/obo/IAO_0000100,achieves
+http://purl.obolibrary.org/obo/STATO_0000533,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001909,http://purl.obolibrary.org/obo/OBI_0000338,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000176,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000727,http://purl.obolibrary.org/obo/OBI_0200172,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000299,http://purl.obolibrary.org/obo/IAO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000373,http://purl.obolibrary.org/obo/STATO_0000108,part of
+http://purl.obolibrary.org/obo/STATO_0000009,http://purl.obolibrary.org/obo/STATO_0000026,has part
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000234,achieves
+http://purl.obolibrary.org/obo/STATO_0000287,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000199,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000147,http://purl.obolibrary.org/obo/STATO_0000091,achieves
+http://purl.obolibrary.org/obo/STATO_0000081,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000481,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/stato.owl#partial_least_squares_weight,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200036,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_input
+http://purl.obolibrary.org/obo/IAO_0000030,http://purl.obolibrary.org/obo/BFO_0000001,achieves
+http://purl.obolibrary.org/obo/STATO_0000248,http://purl.obolibrary.org/obo/STATO_0000223,realized in
+http://purl.obolibrary.org/obo/OBI_0000673,http://purl.obolibrary.org/obo/STATO_0000116,has part
+http://purl.obolibrary.org/obo/OBI_0200073,http://purl.obolibrary.org/obo/OBI_0000791,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000570,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000466,http://purl.obolibrary.org/obo/STATO_0000034,has part
+http://purl.obolibrary.org/obo/STATO_0000256,http://purl.obolibrary.org/obo/STATO_0000091,achieves
+http://purl.obolibrary.org/obo/STATO_0000024,http://purl.obolibrary.org/obo/BFO_0000028,achieves
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000433,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000427,http://purl.obolibrary.org/obo/STATO_0000113,achieves
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200111,http://purl.obolibrary.org/obo/IAO_0000027,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000042,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000546,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000494,http://purl.obolibrary.org/obo/STATO_0000493,computed from
+http://purl.obolibrary.org/obo/STATO_0000549,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000054,http://purl.obolibrary.org/obo/STATO_0000226,part of
+http://purl.obolibrary.org/obo/STATO_0000150,http://purl.obolibrary.org/obo/IAO_0000100,achieves
+http://purl.obolibrary.org/obo/OBI_0000626,http://purl.obolibrary.org/obo/OBI_0400103,has participant
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000060,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000141,http://purl.obolibrary.org/obo/STATO_0000279,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/STATO_0000439,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/IAO_0000109,achieves
+http://purl.obolibrary.org/obo/STATO_0000393,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400078,has part
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000466,http://purl.obolibrary.org/obo/STATO_0000107,is declared by
+http://purl.obolibrary.org/obo/OBI_0000070,http://purl.obolibrary.org/obo/OBI_0000067,realizes
+http://purl.obolibrary.org/obo/STATO_0000224,http://purl.obolibrary.org/obo/STATO_0000058,has part
+http://purl.obolibrary.org/obo/OBI_0666667,http://purl.obolibrary.org/obo/CHEBI_33696,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0200049,http://purl.obolibrary.org/obo/OBI_0000662,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/OBI_0100051,has part
+http://purl.obolibrary.org/obo/STATO_0000318,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000324,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000053,http://purl.obolibrary.org/obo/OBI_0000673,achieves
+http://purl.obolibrary.org/obo/STATO_0000319,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000407,http://purl.obolibrary.org/obo/STATO_0000417,denotes
+http://purl.obolibrary.org/obo/IAO_0000584,http://purl.obolibrary.org/obo/IAO_0000582,has part
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000196,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000284,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/OBI_0000113,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0600015,http://purl.obolibrary.org/obo/OBI_0100026,inheres in
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000217,http://purl.obolibrary.org/obo/STATO_0000183,part of
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000059,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000500,http://purl.obolibrary.org/obo/STATO_0000225,denotes
+http://purl.obolibrary.org/obo/STATO_0000338,http://purl.obolibrary.org/obo/STATO_0000582,has part
+http://purl.obolibrary.org/obo/STATO_0000383,http://purl.obolibrary.org/obo/STATO_0000385,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000346,http://purl.obolibrary.org/obo/STATO_0000301,achieves
+http://purl.obolibrary.org/obo/OBI_0666666,http://purl.obolibrary.org/obo/CHEBI_33697,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000302,http://purl.obolibrary.org/obo/STATO_0000059,has_specified_input
+http://purl.obolibrary.org/obo/CL_0000010,http://purl.obolibrary.org/obo/OBI_0600036,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000234,achieves
+http://purl.obolibrary.org/obo/OBI_0500014,http://purl.obolibrary.org/obo/STATO_0000255,has part
+http://purl.obolibrary.org/obo/STATO_0000422,http://purl.obolibrary.org/obo/OBI_0200111,preceded by
+http://purl.obolibrary.org/obo/STATO_0000495,http://purl.obolibrary.org/obo/STATO_0000494,computed from
+http://purl.obolibrary.org/obo/STATO_0000485,http://purl.obolibrary.org/obo/STATO_0000337,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0400103,http://purl.obolibrary.org/obo/OBI_0000453,has function
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000196,http://purl.obolibrary.org/obo/STATO_0000182,achieves
+http://purl.obolibrary.org/obo/OBI_1000029,http://purl.obolibrary.org/obo/OBI_0600064,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0600064,http://purl.obolibrary.org/obo/OBI_0000411,realizes
+http://purl.obolibrary.org/obo/STATO_0000126,http://purl.obolibrary.org/obo/OBI_0000650,preceded by
+http://purl.obolibrary.org/obo/STATO_0000284,http://purl.obolibrary.org/obo/STATO_0000226,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000484,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000230,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000157,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000048,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400153,has part
+http://purl.obolibrary.org/obo/STATO_0000432,http://purl.obolibrary.org/obo/STATO_0000099,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000286,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000206,http://purl.obolibrary.org/obo/GO_0010467,achieves
+http://purl.obolibrary.org/obo/OBI_0000423,http://purl.obolibrary.org/obo/OBI_0302884,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0000275,role of
+http://purl.obolibrary.org/obo/OBI_0200051,http://purl.obolibrary.org/obo/STATO_0000566,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000463,http://purl.obolibrary.org/obo/STATO_0000047,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0600024,http://purl.obolibrary.org/obo/OBI_0000806,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000222,http://purl.obolibrary.org/obo/STATO_0000517,has part
+http://purl.obolibrary.org/obo/OBI_0000094,http://purl.obolibrary.org/obo/OBI_0000047,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000080,http://purl.obolibrary.org/obo/STATO_0000226,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000327,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/STATO_0000569,http://purl.obolibrary.org/obo/OBI_0200051,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000107,http://purl.obolibrary.org/obo/STATO_0000034,has part
+http://purl.obolibrary.org/obo/STATO_0000406,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/OBI_0000274,http://purl.obolibrary.org/obo/OBI_0000319,realizes
+http://purl.obolibrary.org/obo/STATO_0000441,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0001352,http://purl.obolibrary.org/obo/SO_0000001,achieves
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000556,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000076,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000540,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/STATO_0000059,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000572,http://purl.obolibrary.org/obo/STATO_0000568,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000266,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/OBI_0000411,http://purl.obolibrary.org/obo/CHEBI_33696,inheres in
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000316,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200191,http://purl.obolibrary.org/obo/IAO_0000306,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000238,http://purl.obolibrary.org/obo/OBI_0200169,has part
+http://purl.obolibrary.org/obo/STATO_0000562,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000408,http://purl.obolibrary.org/obo/STATO_0000233,denotes
+http://purl.obolibrary.org/obo/STATO_0000463,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200049,http://purl.obolibrary.org/obo/OBI_0000791,achieves_planned_objective
+http://purl.obolibrary.org/obo/CL_0000578,http://purl.obolibrary.org/obo/OBI_0000094,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000143,http://purl.obolibrary.org/obo/IAO_0000100,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000230,http://purl.obolibrary.org/obo/STATO_0000221,achieves
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000659,http://purl.obolibrary.org/obo/OBI_0100051,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/CHEBI_33697,role of
+http://purl.obolibrary.org/obo/STATO_0000290,http://purl.obolibrary.org/obo/STATO_0000264,is denoted by
+http://purl.obolibrary.org/obo/OBI_0400110,http://purl.obolibrary.org/obo/OBI_0000401,has function
+http://purl.obolibrary.org/obo/STATO_0000099,http://purl.obolibrary.org/obo/OBI_0000751,has random effect on
+http://purl.obolibrary.org/obo/STATO_0000168,http://purl.obolibrary.org/obo/STATO_0000232,denotes
+http://purl.obolibrary.org/obo/OBI_0500000,http://purl.obolibrary.org/obo/OBI_0000751,declares
+http://purl.obolibrary.org/obo/STATO_0000166,http://purl.obolibrary.org/obo/IAO_0000027,denotes
+http://purl.obolibrary.org/obo/STATO_0000098,http://purl.obolibrary.org/obo/OBI_0000181,achieves
+http://purl.obolibrary.org/obo/STATO_0000559,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000042,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000144,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000147,http://purl.obolibrary.org/obo/STATO_0000027,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000369,http://purl.obolibrary.org/obo/STATO_0000346,has part
+http://purl.obolibrary.org/obo/OBI_0001444,http://purl.obolibrary.org/obo/OBI_0000435,has part
+http://purl.obolibrary.org/obo/STATO_0000491,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000059,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/OBI_0000067,http://purl.obolibrary.org/obo/BFO_0000040,inheres in
+http://purl.obolibrary.org/obo/STATO_0000540,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000438,http://purl.obolibrary.org/obo/STATO_0000500,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000325,http://purl.obolibrary.org/obo/STATO_0000328,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000034,http://purl.obolibrary.org/obo/STATO_0000466,part of
+http://purl.obolibrary.org/obo/STATO_0000502,http://purl.obolibrary.org/obo/STATO_0000193,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000387,http://purl.obolibrary.org/obo/IAO_0000184,has part
+http://purl.obolibrary.org/obo/STATO_0000166,http://purl.obolibrary.org/obo/STATO_0000006,denotes
+http://purl.obolibrary.org/obo/STATO_0000168,http://purl.obolibrary.org/obo/STATO_0000008,denotes
+http://purl.obolibrary.org/obo/STATO_0000483,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000241,http://purl.obolibrary.org/obo/STATO_0000225,achieves
+http://purl.obolibrary.org/obo/OBI_0000424,http://purl.obolibrary.org/obo/OBI_0100051,has part
+http://purl.obolibrary.org/obo/STATO_0000441,http://purl.obolibrary.org/obo/STATO_0000439,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000431,http://purl.obolibrary.org/obo/STATO_0000429,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000084,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000083,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000443,http://purl.obolibrary.org/obo/OBI_0000275,realizes
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0100060,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000112,http://purl.obolibrary.org/obo/STATO_0000085,denotes
+http://purl.obolibrary.org/obo/OBI_0200036,http://purl.obolibrary.org/obo/OBI_0001442,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000568,http://purl.obolibrary.org/obo/OBI_0200051,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0001265,http://purl.obolibrary.org/obo/STATO_0000057,achieves
+http://purl.obolibrary.org/obo/STATO_0000270,http://purl.obolibrary.org/obo/STATO_0000192,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000298,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000463,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000461,http://purl.obolibrary.org/obo/STATO_0000279,has part
+http://purl.obolibrary.org/obo/OBI_0000727,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0600047,http://purl.obolibrary.org/obo/OBI_0000067,has role
+http://purl.obolibrary.org/obo/STATO_0000134,http://purl.obolibrary.org/obo/OBI_0000673,achieves
+http://purl.obolibrary.org/obo/STATO_0000255,http://purl.obolibrary.org/obo/STATO_0000061,has part
+http://purl.obolibrary.org/obo/OBI_0000968,http://purl.obolibrary.org/obo/OBI_0000094,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000545,http://purl.obolibrary.org/obo/STATO_0000113,achieves
+http://purl.obolibrary.org/obo/STATO_0000097,http://purl.obolibrary.org/obo/STATO_0000085,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000544,http://purl.obolibrary.org/obo/OBI_0001305,achieves
+http://purl.obolibrary.org/obo/STATO_0000172,http://purl.obolibrary.org/obo/OBI_0001271,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000336,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200041,http://purl.obolibrary.org/obo/OBI_0200178,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000480,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000289,http://purl.obolibrary.org/obo/STATO_0000107,part of
+http://purl.obolibrary.org/obo/STATO_0000207,http://purl.obolibrary.org/obo/STATO_0000057,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000136,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000492,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000142,http://purl.obolibrary.org/obo/STATO_0000301,has numerator
+http://purl.obolibrary.org/obo/STATO_0000323,http://purl.obolibrary.org/obo/STATO_0000290,achieves
+http://purl.obolibrary.org/obo/STATO_0000298,http://purl.obolibrary.org/obo/STATO_0000276,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000196,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_output_of
+http://purl.obolibrary.org/obo/OBI_0200036,http://purl.obolibrary.org/obo/OBI_0000791,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000481,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000130,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000371,http://purl.obolibrary.org/obo/STATO_0000108,part of
+http://purl.obolibrary.org/obo/STATO_0000314,http://purl.obolibrary.org/obo/STATO_0000196,part of
+http://purl.obolibrary.org/obo/STATO_0000483,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000156,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000274,http://purl.obolibrary.org/obo/OBI_0200111,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/STATO_0000226,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000491,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000530,http://purl.obolibrary.org/obo/STATO_0000531,declares
+http://purl.obolibrary.org/obo/STATO_0000309,http://purl.obolibrary.org/obo/STATO_0000229,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000238,http://purl.obolibrary.org/obo/STATO_0000279,has part
+http://purl.obolibrary.org/obo/STATO_0000385,http://purl.obolibrary.org/obo/STATO_0000383,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000099,http://purl.obolibrary.org/obo/OBI_0000750,has random effect on
+http://purl.obolibrary.org/obo/STATO_0000188,http://purl.obolibrary.org/obo/STATO_0000169,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200200,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000572,http://purl.obolibrary.org/obo/STATO_0000569,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000256,http://purl.obolibrary.org/obo/OBI_0200094,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000375,http://purl.obolibrary.org/obo/STATO_0000234,achieves
+http://purl.obolibrary.org/obo/STATO_0000428,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200102,http://purl.obolibrary.org/obo/STATO_0000218,has part
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/OBI_0500015,http://purl.obolibrary.org/obo/STATO_0000264,has part
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000407,http://purl.obolibrary.org/obo/STATO_0000007,has part
+http://purl.obolibrary.org/obo/STATO_0000268,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/OBI_0000274,http://purl.obolibrary.org/obo/OBI_0000444,realizes
+http://purl.obolibrary.org/obo/OBI_0500003,http://purl.obolibrary.org/obo/STATO_0000253,has part
+http://purl.obolibrary.org/obo/OBI_0200094,http://purl.obolibrary.org/obo/OBI_0200167,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000568,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000022,http://purl.obolibrary.org/obo/BFO_0000026,achieves
+http://purl.obolibrary.org/obo/STATO_0000463,http://purl.obolibrary.org/obo/STATO_0000279,has part
+http://purl.obolibrary.org/obo/STATO_0000077,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000346,http://purl.obolibrary.org/obo/STATO_0000390,part of
+http://purl.obolibrary.org/obo/STATO_0000246,http://purl.obolibrary.org/obo/STATO_0000173,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000107,http://purl.obolibrary.org/obo/STATO_0000289,is denoted by
+http://purl.obolibrary.org/obo/OBI_0400044,http://purl.obolibrary.org/obo/OBI_0400065,has part
+http://purl.obolibrary.org/obo/STATO_0000215,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000531,http://purl.obolibrary.org/obo/STATO_0000530,is declared by
+http://purl.obolibrary.org/obo/STATO_0000325,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/STATO_0000092,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000243,http://purl.obolibrary.org/obo/STATO_0000574,achieves
+http://purl.obolibrary.org/obo/OBI_0001442,http://purl.obolibrary.org/obo/STATO_0000057,achieves
+http://purl.obolibrary.org/obo/OBI_0000861,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000277,http://purl.obolibrary.org/obo/STATO_0000135,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000394,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000482,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001865,http://purl.obolibrary.org/obo/OBI_0000399,has function
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/OBI_0000751,has effect on
+http://purl.obolibrary.org/obo/OBI_0200042,http://purl.obolibrary.org/obo/OBI_0000648,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0600038,http://purl.obolibrary.org/obo/OBI_0000456,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000426,http://purl.obolibrary.org/obo/STATO_0000039,estimate of
+http://purl.obolibrary.org/obo/STATO_0000206,http://purl.obolibrary.org/obo/OBI_0000736,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000370,http://purl.obolibrary.org/obo/STATO_0000108,part of
+http://purl.obolibrary.org/obo/OBI_0001352,http://purl.obolibrary.org/obo/OBI_0001305,part of
+http://purl.obolibrary.org/obo/STATO_0000315,http://purl.obolibrary.org/obo/STATO_0000196,part of
+http://purl.obolibrary.org/obo/OBI_0000671,http://purl.obolibrary.org/obo/UBERON_0000465,derives from
+http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_fixed_effect_hypothesis,http://purl.obolibrary.org/obo/OBI_0000751,has effect on
+http://purl.obolibrary.org/obo/STATO_0000073,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000545,http://purl.obolibrary.org/obo/OBI_0001305,achieves
+http://purl.obolibrary.org/obo/IAO_0000109,http://purl.obolibrary.org/obo/OBI_0001933,has value specification
+http://purl.obolibrary.org/obo/STATO_0000483,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001271,http://purl.obolibrary.org/obo/OBI_0000848,has part
+http://purl.obolibrary.org/obo/OBI_0500014,http://purl.obolibrary.org/obo/STATO_0000264,has part
+http://purl.obolibrary.org/obo/STATO_0000532,http://purl.obolibrary.org/obo/STATO_0000530,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000238,http://purl.obolibrary.org/obo/OBI_0000964,has part
+http://purl.obolibrary.org/obo/STATO_0000156,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000045,http://purl.obolibrary.org/obo/STATO_0000086,has part
+http://purl.obolibrary.org/obo/STATO_0000182,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0600036,http://purl.obolibrary.org/obo/OBI_0000079,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000148,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000494,http://purl.obolibrary.org/obo/STATO_0000063,achieves
+http://purl.obolibrary.org/obo/STATO_0000572,http://purl.obolibrary.org/obo/STATO_0000252,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000061,achieves
+http://purl.obolibrary.org/obo/STATO_0000226,http://purl.obolibrary.org/obo/STATO_0000054,has part
+http://purl.obolibrary.org/obo/STATO_0000064,http://purl.obolibrary.org/obo/OBI_0000811,achieves
+http://purl.obolibrary.org/obo/STATO_0000126,http://purl.obolibrary.org/obo/OBI_0200094,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000078,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000566,http://purl.obolibrary.org/obo/OBI_0200051,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000484,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000099,http://purl.obolibrary.org/obo/OBI_0000750,achieves
+http://purl.obolibrary.org/obo/STATO_0000088,http://purl.obolibrary.org/obo/STATO_0000193,achieves
+http://purl.obolibrary.org/obo/OBI_0200000,http://purl.obolibrary.org/obo/IAO_0000027,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000310,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000889,http://purl.obolibrary.org/obo/OBI_0000789,denotes
+http://purl.obolibrary.org/obo/OBI_0000435,http://purl.obolibrary.org/obo/OBI_0000275,role of
+http://purl.obolibrary.org/obo/STATO_0000317,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000461,http://purl.obolibrary.org/obo/STATO_0000047,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000861,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000064,http://purl.obolibrary.org/obo/OBI_0000626,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000385,http://purl.obolibrary.org/obo/STATO_0000384,achieves
+http://purl.obolibrary.org/obo/OBI_0400078,http://purl.obolibrary.org/obo/OBI_0000378,has function
+http://purl.obolibrary.org/obo/STATO_0000013,http://purl.obolibrary.org/obo/BFO_0000009,achieves
+http://purl.obolibrary.org/obo/STATO_0000187,http://purl.obolibrary.org/obo/STATO_0000023,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000434,http://purl.obolibrary.org/obo/STATO_0000419,achieves
+http://purl.obolibrary.org/obo/STATO_0000484,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000186,http://purl.obolibrary.org/obo/STATO_0000006,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0000175,http://purl.obolibrary.org/obo/STATO_0000057,achieves
+http://purl.obolibrary.org/obo/STATO_0000040,http://purl.obolibrary.org/obo/STATO_0000210,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/STATO_0000314,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000100,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/OBI_0400137,http://purl.obolibrary.org/obo/OBI_0400065,has part
+http://purl.obolibrary.org/obo/STATO_0000126,http://purl.obolibrary.org/obo/STATO_0000169,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000155,http://purl.obolibrary.org/obo/OBI_0000066,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000061,http://purl.obolibrary.org/obo/STATO_0000255,part of
+http://purl.obolibrary.org/obo/STATO_0000126,http://purl.obolibrary.org/obo/GO_0010467,achieves
+http://purl.obolibrary.org/obo/STATO_0000240,http://purl.obolibrary.org/obo/STATO_0000085,achieves
+http://purl.obolibrary.org/obo/STATO_0000442,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000186,http://purl.obolibrary.org/obo/STATO_0000008,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000269,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000218,http://purl.obolibrary.org/obo/OBI_0000673,has part
+http://purl.obolibrary.org/obo/STATO_0000467,http://purl.obolibrary.org/obo/STATO_0000336,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000199,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0200000,http://purl.obolibrary.org/obo/IAO_0000005,has part
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/STATO_0000253,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000153,http://purl.obolibrary.org/obo/OBI_0000181,achieves
+http://purl.obolibrary.org/obo/STATO_0000585,http://purl.obolibrary.org/obo/STATO_0000069,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000289,http://purl.obolibrary.org/obo/STATO_0000218,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000340,http://purl.obolibrary.org/obo/IAO_0000100,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000160,http://purl.obolibrary.org/obo/STATO_0000068,is denoted by
+http://purl.obolibrary.org/obo/OBI_0500005,http://purl.obolibrary.org/obo/STATO_0000278,has part
+http://purl.obolibrary.org/obo/STATO_0000009,http://purl.obolibrary.org/obo/STATO_0000011,has part
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000077,http://purl.obolibrary.org/obo/STATO_0000227,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000482,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200050,http://purl.obolibrary.org/obo/OBI_0000648,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000304,http://purl.obolibrary.org/obo/STATO_0000059,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000070,http://purl.obolibrary.org/obo/STATO_0000138,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000444,http://purl.obolibrary.org/obo/BFO_0000040,inheres in
+http://purl.obolibrary.org/obo/STATO_0000144,http://purl.obolibrary.org/obo/STATO_0000034,achieves
+http://purl.obolibrary.org/obo/STATO_0000408,http://purl.obolibrary.org/obo/STATO_0000007,denotes
+http://purl.obolibrary.org/obo/STATO_0000430,http://purl.obolibrary.org/obo/STATO_0000425,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000148,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0000274,http://purl.obolibrary.org/obo/OBI_0000319,has role
+http://purl.obolibrary.org/obo/STATO_0000462,http://purl.obolibrary.org/obo/STATO_0000279,has part
+http://purl.obolibrary.org/obo/STATO_0000187,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000040,http://purl.obolibrary.org/obo/OBI_0200094,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0000652,http://purl.obolibrary.org/obo/BFO_0000040,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000336,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000076,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000316,http://purl.obolibrary.org/obo/STATO_0000175,is_specified_input_of
+http://purl.obolibrary.org/obo/STATO_0000044,http://purl.obolibrary.org/obo/STATO_0000086,has part
+http://purl.obolibrary.org/obo/STATO_0000467,http://purl.obolibrary.org/obo/STATO_0000346,is modeled by
+http://purl.obolibrary.org/obo/STATO_0000225,http://purl.obolibrary.org/obo/STATO_0000068,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000491,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000196,http://purl.obolibrary.org/obo/STATO_0000561,has part
+http://purl.obolibrary.org/obo/STATO_0000425,http://purl.obolibrary.org/obo/STATO_0000421,estimate of
+http://purl.obolibrary.org/obo/OBI_0500014,http://purl.obolibrary.org/obo/STATO_0000195,has part
+http://purl.obolibrary.org/obo/STATO_0000056,http://purl.obolibrary.org/obo/STATO_0000121,part of
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000582,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000104,http://purl.obolibrary.org/obo/IAO_0000005,has part
+http://purl.obolibrary.org/obo/STATO_0000587,http://purl.obolibrary.org/obo/OBI_0200104,is_specified_output_of
+http://purl.obolibrary.org/obo/STATO_0000443,http://purl.obolibrary.org/obo/OBI_0200089,has part
+http://purl.obolibrary.org/obo/STATO_0000303,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000440,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000175,http://purl.obolibrary.org/obo/STATO_0000085,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000406,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000501,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/OBI_0600005,http://purl.obolibrary.org/obo/OBI_0000684,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0500017,http://purl.obolibrary.org/obo/OBI_0000250,has role
+http://purl.obolibrary.org/obo/STATO_0000148,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000739,http://purl.obolibrary.org/obo/STATO_0000019,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000076,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000480,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000285,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000462,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/OBI_0000112,has role
+http://purl.obolibrary.org/obo/STATO_0000147,http://purl.obolibrary.org/obo/IAO_0000578,has part
+http://purl.obolibrary.org/obo/OBI_0000750,http://purl.obolibrary.org/obo/OBI_0500000,part of
+http://purl.obolibrary.org/obo/STATO_0000582,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000161,http://purl.obolibrary.org/obo/STATO_0000029,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/STATO_0000255,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000433,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000106,http://purl.obolibrary.org/obo/OBI_0000751,achieves
+http://purl.obolibrary.org/obo/STATO_0000480,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200117,http://purl.obolibrary.org/obo/STATO_0000033,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000492,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000546,http://purl.obolibrary.org/obo/stato.owl#response_variable_explained_by_random_effect_hypothesis,has part
+http://purl.obolibrary.org/obo/STATO_0000429,http://purl.obolibrary.org/obo/STATO_0000421,estimate of
+http://purl.obolibrary.org/obo/OBI_0302903,http://purl.obolibrary.org/obo/OBI_0400110,inheres in
+http://purl.obolibrary.org/obo/OBI_0600064,http://purl.obolibrary.org/obo/OBI_0000416,has role
+http://purl.obolibrary.org/obo/OBI_0001172,http://purl.obolibrary.org/obo/OBI_0000751,denotes
+http://purl.obolibrary.org/obo/OBI_0001010,http://purl.obolibrary.org/obo/CHEBI_33696,has grain
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000481,http://purl.obolibrary.org/obo/STATO_0000144,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000172,http://purl.obolibrary.org/obo/GO_0010467,achieves
+http://purl.obolibrary.org/obo/STATO_0000055,http://purl.obolibrary.org/obo/IAO_0000129,has part
+http://purl.obolibrary.org/obo/STATO_0000395,http://purl.obolibrary.org/obo/STATO_0000435,is denoted by
+http://purl.obolibrary.org/obo/STATO_0000440,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000052,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/OBI_0100060,http://purl.obolibrary.org/obo/CL_0000010,has grain
+http://purl.obolibrary.org/obo/STATO_0000022,http://purl.obolibrary.org/obo/STATO_0000025,has part
+http://purl.obolibrary.org/obo/STATO_0000336,http://purl.obolibrary.org/obo/STATO_0000485,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0000185,http://purl.obolibrary.org/obo/IAO_0000101,has_specified_output
+http://purl.obolibrary.org/obo/STATO_0000346,http://purl.obolibrary.org/obo/STATO_0000301,is model for
+http://purl.obolibrary.org/obo/STATO_0000275,http://purl.obolibrary.org/obo/STATO_0000121,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000571,http://purl.obolibrary.org/obo/STATO_0000569,has_specified_output
+http://purl.obolibrary.org/obo/IAO_0000400,http://purl.obolibrary.org/obo/BFO_0000018,denotes
+http://purl.obolibrary.org/obo/OBI_0200066,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000095,http://purl.obolibrary.org/obo/OBI_0000675,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000079,http://purl.obolibrary.org/obo/STATO_0000224,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000379,http://purl.obolibrary.org/obo/STATO_0000107,achieves
+http://purl.obolibrary.org/obo/STATO_0000074,http://purl.obolibrary.org/obo/OBI_0000175,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0400137,http://purl.obolibrary.org/obo/OBI_0400082,has part
+http://purl.obolibrary.org/obo/STATO_0000219,http://purl.obolibrary.org/obo/STATO_0000190,denotes
+http://purl.obolibrary.org/obo/STATO_0000261,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/OBI_0400065,http://purl.obolibrary.org/obo/OBI_0000367,has function
+http://purl.obolibrary.org/obo/OBI_0600038,http://purl.obolibrary.org/obo/REO_0000280,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000470,http://purl.obolibrary.org/obo/STATO_0000047,has order in sequence
+http://purl.obolibrary.org/obo/STATO_0000440,http://purl.obolibrary.org/obo/STATO_0000439,achieves_planned_objective
+http://purl.obolibrary.org/obo/GO_0043234,http://purl.obolibrary.org/obo/PR_000000001,has part
+http://purl.obolibrary.org/obo/STATO_0000123,http://purl.obolibrary.org/obo/OBI_0200111,is_specified_input_of
+http://purl.obolibrary.org/obo/OBI_0200201,http://purl.obolibrary.org/obo/STATO_0000100,has_specified_output
+http://purl.obolibrary.org/obo/OBI_0200163,http://purl.obolibrary.org/obo/OBI_0000791,achieves_planned_objective
+http://purl.obolibrary.org/obo/STATO_0000175,http://purl.obolibrary.org/obo/STATO_0000053,has_specified_input
+http://purl.obolibrary.org/obo/STATO_0000445,http://purl.obolibrary.org/obo/STATO_0000447,declares
+http://purl.obolibrary.org/obo/OBI_0000751,http://purl.obolibrary.org/obo/OBI_0500000,part of

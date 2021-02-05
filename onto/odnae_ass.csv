@@ -1,0 +1,810 @@
+source,target,relation
+http://purl.obolibrary.org/obo/ODNAE_0000127,http://purl.obolibrary.org/obo/DRON_00022521,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000126,http://purl.obolibrary.org/obo/DRON_00020336,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000129,http://purl.obolibrary.org/obo/DRON_00021467,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000128,http://purl.obolibrary.org/obo/DRON_00025837,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000123,http://purl.obolibrary.org/obo/DRON_00020653,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000122,http://purl.obolibrary.org/obo/DRON_00023742,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000125,http://purl.obolibrary.org/obo/DRON_00023809,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000124,http://purl.obolibrary.org/obo/DRON_00027809,has participant
+http://purl.obolibrary.org/obo/NCBITaxon_33154,http://purl.obolibrary.org/obo/NCBITaxon_33154,in taxon
+http://purl.obolibrary.org/obo/ODNAE_0000120,http://purl.obolibrary.org/obo/DRON_00031788,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000121,http://purl.obolibrary.org/obo/DRON_00020960,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000139,http://purl.obolibrary.org/obo/DRON_00022757,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000138,http://purl.obolibrary.org/obo/DRON_00022714,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000137,http://purl.obolibrary.org/obo/DRON_00023619,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000136,http://purl.obolibrary.org/obo/DRON_00020565,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000135,http://purl.obolibrary.org/obo/DRON_00018348,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000134,http://purl.obolibrary.org/obo/DRON_00018768,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000133,http://purl.obolibrary.org/obo/DRON_00030845,has participant
+http://purl.obolibrary.org/obo/DRON_00025255,http://purl.obolibrary.org/obo/CHEBI_4356,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025255,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000144,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000131,http://purl.obolibrary.org/obo/DRON_00030815,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000132,http://purl.obolibrary.org/obo/DRON_00021489,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000130,http://purl.obolibrary.org/obo/DRON_00021114,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000145,http://purl.obolibrary.org/obo/DRON_00023479,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000144,http://purl.obolibrary.org/obo/DRON_00021860,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000147,http://purl.obolibrary.org/obo/DRON_00022419,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000146,http://purl.obolibrary.org/obo/DRON_00018093,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000149,http://purl.obolibrary.org/obo/DRON_00023325,has participant
+http://purl.obolibrary.org/obo/DRON_00034152,http://purl.obolibrary.org/obo/DRON_00020212,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000148,http://purl.obolibrary.org/obo/DRON_00023363,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000140,http://purl.obolibrary.org/obo/DRON_00022383,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000141,http://purl.obolibrary.org/obo/DRON_00022383,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000142,http://purl.obolibrary.org/obo/DRON_00022568,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000143,http://purl.obolibrary.org/obo/DRON_00020625,has participant
+http://purl.obolibrary.org/obo/DRON_00030051,http://purl.obolibrary.org/obo/DRON_00015922,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000158,http://purl.obolibrary.org/obo/DRON_00023704,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000157,http://purl.obolibrary.org/obo/DRON_00022739,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000156,http://purl.obolibrary.org/obo/DRON_00021386,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000155,http://purl.obolibrary.org/obo/DRON_00023452,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000159,http://purl.obolibrary.org/obo/DRON_00030051,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000150,http://purl.obolibrary.org/obo/DRON_00059074,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000153,http://purl.obolibrary.org/obo/DRON_00024010,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000154,http://purl.obolibrary.org/obo/DRON_00025587,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000151,http://purl.obolibrary.org/obo/DRON_00021462,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000152,http://purl.obolibrary.org/obo/DRON_00023605,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000166,http://purl.obolibrary.org/obo/DRON_00030385,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000167,http://purl.obolibrary.org/obo/DRON_00026893,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000168,http://purl.obolibrary.org/obo/DRON_00022310,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000169,http://purl.obolibrary.org/obo/DRON_00027823,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000163,http://purl.obolibrary.org/obo/DRON_00021999,has participant
+http://purl.obolibrary.org/obo/DRON_00018093,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000162,http://purl.obolibrary.org/obo/DRON_00021599,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000165,http://purl.obolibrary.org/obo/DRON_00022291,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000164,http://purl.obolibrary.org/obo/DRON_00021937,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000161,http://purl.obolibrary.org/obo/DRON_00023612,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000160,http://purl.obolibrary.org/obo/DRON_00013678,has participant
+http://purl.obolibrary.org/obo/DRON_00030845,http://purl.obolibrary.org/obo/DRON_00016437,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024830,http://purl.obolibrary.org/obo/CHEBI_478164,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024830,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00025297,http://purl.obolibrary.org/obo/DRON_00015719,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025297,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000008288,has participant
+http://purl.obolibrary.org/obo/DRON_00025299,http://purl.obolibrary.org/obo/CHEBI_27899,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025299,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000179,http://purl.obolibrary.org/obo/DRON_00020523,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000177,http://purl.obolibrary.org/obo/DRON_00010449,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000178,http://purl.obolibrary.org/obo/DRON_00010568,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000176,http://purl.obolibrary.org/obo/DRON_00027215,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000175,http://purl.obolibrary.org/obo/DRON_00025774,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000174,http://purl.obolibrary.org/obo/DRON_00022889,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000173,http://purl.obolibrary.org/obo/DRON_00012997,has participant
+http://purl.obolibrary.org/obo/DRON_00021934,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020025,has participant
+http://purl.obolibrary.org/obo/DRON_00021934,http://purl.obolibrary.org/obo/CHEBI_46081,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000172,http://purl.obolibrary.org/obo/DRON_00025297,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000171,http://purl.obolibrary.org/obo/DRON_00020337,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000170,http://purl.obolibrary.org/obo/DRON_00022859,has participant
+http://purl.obolibrary.org/obo/GO_0009653,http://purl.obolibrary.org/obo/GO_0048856,part of
+http://purl.obolibrary.org/obo/ODNAE_0000188,http://purl.obolibrary.org/obo/DRON_00072660,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000189,http://purl.obolibrary.org/obo/DRON_00022867,has participant
+http://purl.obolibrary.org/obo/DRON_00021937,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00021937,http://purl.obolibrary.org/obo/CHEBI_5100,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000181,http://purl.obolibrary.org/obo/DRON_00027893,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000180,http://purl.obolibrary.org/obo/DRON_00025763,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000183,http://purl.obolibrary.org/obo/DRON_00024436,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000182,http://purl.obolibrary.org/obo/DRON_00023323,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000185,http://purl.obolibrary.org/obo/DRON_00023427,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000184,http://purl.obolibrary.org/obo/DRON_00024567,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000187,http://purl.obolibrary.org/obo/DRON_00024462,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000186,http://purl.obolibrary.org/obo/DRON_00026059,has participant
+http://purl.obolibrary.org/obo/DRON_00027818,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000147,has participant
+http://purl.obolibrary.org/obo/DRON_00027818,http://purl.obolibrary.org/obo/CHEBI_7772,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021014,http://purl.obolibrary.org/obo/CHEBI_3181,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023278,http://purl.obolibrary.org/obo/CHEBI_8774,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023278,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000181,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000199,http://purl.obolibrary.org/obo/DRON_00023623,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000194,http://purl.obolibrary.org/obo/DRON_00021832,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000193,http://purl.obolibrary.org/obo/DRON_00023808,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000192,http://purl.obolibrary.org/obo/DRON_00023469,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000191,http://purl.obolibrary.org/obo/DRON_00022497,has participant
+http://purl.obolibrary.org/obo/DRON_00031159,http://purl.obolibrary.org/obo/DRON_00020282,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00031159,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009948,has participant
+http://purl.obolibrary.org/obo/DRON_00021955,http://purl.obolibrary.org/obo/CHEBI_5118,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000198,http://purl.obolibrary.org/obo/DRON_00026599,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000197,http://purl.obolibrary.org/obo/DRON_00020525,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000196,http://purl.obolibrary.org/obo/DRON_00025863,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000195,http://purl.obolibrary.org/obo/DRON_00021832,has participant
+http://purl.obolibrary.org/obo/DRON_00021951,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000098,has participant
+http://purl.obolibrary.org/obo/DRON_00021951,http://purl.obolibrary.org/obo/CHEBI_46345,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027809,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00027809,http://purl.obolibrary.org/obo/DRON_00017540,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000190,http://purl.obolibrary.org/obo/DRON_00020621,has participant
+http://purl.obolibrary.org/obo/OAE_0000001,http://purl.obolibrary.org/obo/OAE_0000002,preceded by
+http://purl.obolibrary.org/obo/DRON_00030815,http://purl.obolibrary.org/obo/DRON_00018842,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020868,http://purl.obolibrary.org/obo/DRON_00013467,has_proper_part
+http://purl.obolibrary.org/obo/CL_0000047,http://purl.obolibrary.org/obo/CL_0000133,develops_from
+http://purl.obolibrary.org/obo/CL_0000047,http://purl.obolibrary.org/obo/UBERON_0001017,part of
+http://purl.obolibrary.org/obo/DRON_00072660,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00025223,http://purl.obolibrary.org/obo/CHEBI_38722,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030017,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00030017,http://purl.obolibrary.org/obo/CHEBI_17076,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022521,http://purl.obolibrary.org/obo/CHEBI_6909,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020394,http://purl.obolibrary.org/obo/CHEBI_23359,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020394,http://purl.obolibrary.org/obo/DRON_00014428,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020394,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010256,has participant
+http://purl.obolibrary.org/obo/UBERON_0000107,http://purl.obolibrary.org/obo/GO_0040016,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000107,http://purl.obolibrary.org/obo/UBERON_0000106,immediately_preceded_by
+http://purl.obolibrary.org/obo/UBERON_0000107,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000107,http://purl.obolibrary.org/obo/GO_0040016,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000106,http://purl.obolibrary.org/obo/UBERON_0000104,starts
+http://purl.obolibrary.org/obo/UBERON_0000106,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/DRON_00023136,http://purl.obolibrary.org/obo/CHEBI_8378,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000109,http://purl.obolibrary.org/obo/GO_0007369,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000109,http://purl.obolibrary.org/obo/UBERON_0000108,preceded by
+http://purl.obolibrary.org/obo/UBERON_0000109,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000109,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0000108,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000108,http://purl.obolibrary.org/obo/UBERON_0000107,preceded by
+http://purl.obolibrary.org/obo/DRON_00022517,http://purl.obolibrary.org/obo/DRON_00015990,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022517,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000066,has participant
+http://purl.obolibrary.org/obo/DRON_00023632,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000180,has participant
+http://purl.obolibrary.org/obo/DRON_00023632,http://purl.obolibrary.org/obo/CHEBI_63631,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0006601,http://purl.obolibrary.org/obo/UBERON_0000924,has potential to develop into
+http://purl.obolibrary.org/obo/UBERON_0006601,http://purl.obolibrary.org/obo/UBERON_0000307,part of
+http://purl.obolibrary.org/obo/UBERON_0006601,http://purl.obolibrary.org/obo/UBERON_0000307,part of
+http://purl.obolibrary.org/obo/UBERON_0006601,http://purl.obolibrary.org/obo/UBERON_0000924,has potential to develop into
+http://purl.obolibrary.org/obo/UBERON_0006601,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/CL_0002319,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/DRON_00013975,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000130,has role
+http://purl.obolibrary.org/obo/CHEBI_6375,http://purl.obolibrary.org/obo/DRON_00020324,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00026716,http://purl.obolibrary.org/obo/CHEBI_60802,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026716,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000180,has participant
+http://purl.obolibrary.org/obo/UBERON_0000111,http://purl.obolibrary.org/obo/GO_0048513,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000111,http://purl.obolibrary.org/obo/UBERON_0000110,preceded by
+http://purl.obolibrary.org/obo/UBERON_0000111,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000111,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0000110,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000110,http://purl.obolibrary.org/obo/UBERON_0000109,preceded by
+http://purl.obolibrary.org/obo/UBERON_0000110,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0000110,http://purl.obolibrary.org/obo/GO_0001841,simultaneous_with
+http://purl.obolibrary.org/obo/DRON_00023118,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://purl.obolibrary.org/obo/DRON_00023118,http://purl.obolibrary.org/obo/CHEBI_63618,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023623,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000160,has participant
+http://purl.obolibrary.org/obo/DRON_00023623,http://purl.obolibrary.org/obo/DRON_00011680,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026729,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00026729,http://purl.obolibrary.org/obo/CHEBI_31355,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030385,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000246,has participant
+http://purl.obolibrary.org/obo/DRON_00030385,http://purl.obolibrary.org/obo/DRON_00016171,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023619,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00023619,http://purl.obolibrary.org/obo/DRON_00011676,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00028026,http://purl.obolibrary.org/obo/CHEBI_102524,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021423,http://purl.obolibrary.org/obo/CHEBI_16714,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030338,http://purl.obolibrary.org/obo/DRON_00017760,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023158,http://purl.obolibrary.org/obo/DRON_00011432,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027823,http://purl.obolibrary.org/obo/DRON_00018173,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027823,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000159,has participant
+http://purl.obolibrary.org/obo/DRON_00013678,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000104,has participant
+http://purl.obolibrary.org/obo/DRON_00029994,http://purl.obolibrary.org/obo/CHEBI_61057,has_proper_part
+http://purl.obolibrary.org/obo/OBI_0100026,http://purl.obolibrary.org/obo/PATO_0000011,has quality at some time
+http://purl.obolibrary.org/obo/DRON_00021872,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00021872,http://purl.obolibrary.org/obo/CHEBI_4911,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021046,http://purl.obolibrary.org/obo/CHEBI_3223,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023184,http://purl.obolibrary.org/obo/CHEBI_63619,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021462,http://purl.obolibrary.org/obo/CHEBI_3996,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020336,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000159,has participant
+http://purl.obolibrary.org/obo/DRON_00020336,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000134,has participant
+http://purl.obolibrary.org/obo/DRON_00020336,http://purl.obolibrary.org/obo/CHEBI_9667,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021467,http://purl.obolibrary.org/obo/CHEBI_4031,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020337,http://purl.obolibrary.org/obo/CHEBI_41879,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020337,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000134,has participant
+http://purl.obolibrary.org/obo/DRON_00020337,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000159,has participant
+http://purl.obolibrary.org/obo/DRON_00021860,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009958,has participant
+http://purl.obolibrary.org/obo/DRON_00021860,http://purl.obolibrary.org/obo/CHEBI_4907,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021059,http://purl.obolibrary.org/obo/CHEBI_27732,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00082933,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000225,has participant
+http://purl.obolibrary.org/obo/DRON_00020345,http://purl.obolibrary.org/obo/CHEBI_17650,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027865,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020019,has participant
+http://purl.obolibrary.org/obo/DRON_00027865,http://purl.obolibrary.org/obo/DRON_00018677,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023204,http://purl.obolibrary.org/obo/CHEBI_8502,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023204,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000155,has participant
+http://purl.obolibrary.org/obo/DRON_00023204,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000132,has participant
+http://purl.obolibrary.org/obo/DRON_00023204,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00021897,http://purl.obolibrary.org/obo/CHEBI_119915,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021897,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000174,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000218,http://purl.obolibrary.org/obo/DRON_00021934,has participant
+http://purl.obolibrary.org/obo/DRON_00023613,http://purl.obolibrary.org/obo/CHEBI_28864,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000219,http://purl.obolibrary.org/obo/DRON_00027809,has participant
+http://purl.obolibrary.org/obo/DRON_00022568,http://purl.obolibrary.org/obo/CHEBI_63610,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023612,http://purl.obolibrary.org/obo/CHEBI_63629,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023612,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009918,has participant
+http://purl.obolibrary.org/obo/DRON_00021489,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009946,has participant
+http://purl.obolibrary.org/obo/DRON_00021489,http://purl.obolibrary.org/obo/CHEBI_4325,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000210,http://purl.obolibrary.org/obo/DRON_00022309,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000211,http://purl.obolibrary.org/obo/DRON_00022517,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000212,http://purl.obolibrary.org/obo/DRON_00022073,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000213,http://purl.obolibrary.org/obo/DRON_00022291,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000214,http://purl.obolibrary.org/obo/DRON_00023599,has participant
+http://purl.obolibrary.org/obo/UBERON_0016880,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/UBERON_0016880,http://purl.obolibrary.org/obo/UBERON_0001016,has potential to develop into
+http://purl.obolibrary.org/obo/UBERON_0016880,http://purl.obolibrary.org/obo/UBERON_0001016,has potential to develop into
+http://purl.obolibrary.org/obo/UBERON_0016880,http://purl.obolibrary.org/obo/UBERON_0000111,existence starts during or after
+http://purl.obolibrary.org/obo/ODNAE_0000215,http://purl.obolibrary.org/obo/DRON_00021698,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000216,http://purl.obolibrary.org/obo/DRON_00030440,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000217,http://purl.obolibrary.org/obo/DRON_00030440,has participant
+http://purl.obolibrary.org/obo/UBERON_0016879,http://purl.obolibrary.org/obo/UBERON_0000924,develops_from
+http://purl.obolibrary.org/obo/UBERON_0016879,http://purl.obolibrary.org/obo/UBERON_0016880,part of
+http://purl.obolibrary.org/obo/UBERON_0016879,http://purl.obolibrary.org/obo/UBERON_0001017,has potential to develop into
+http://purl.obolibrary.org/obo/UBERON_0016879,http://purl.obolibrary.org/obo/UBERON_0001017,has potential to develop into
+http://purl.obolibrary.org/obo/CHEBI_101278,http://purl.obolibrary.org/obo/DRON_00020325,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00023210,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00023210,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00023210,http://purl.obolibrary.org/obo/CHEBI_8597,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027879,http://purl.obolibrary.org/obo/DRON_00018683,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027879,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020084,has participant
+http://purl.obolibrary.org/obo/DRON_00027879,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000175075,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000209,http://purl.obolibrary.org/obo/DRON_00025843,has participant
+http://purl.obolibrary.org/obo/DRON_00030794,http://purl.obolibrary.org/obo/DRON_00018834,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000207,http://purl.obolibrary.org/obo/DRON_00023012,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000208,http://purl.obolibrary.org/obo/DRON_00025843,has participant
+http://purl.obolibrary.org/obo/DRON_00023605,http://purl.obolibrary.org/obo/CHEBI_63627,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000201,http://purl.obolibrary.org/obo/DRON_00030338,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000202,http://purl.obolibrary.org/obo/DRON_00020620,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000200,http://purl.obolibrary.org/obo/DRON_00022385,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000205,http://purl.obolibrary.org/obo/DRON_00024436,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000206,http://purl.obolibrary.org/obo/DRON_00022828,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000203,http://purl.obolibrary.org/obo/DRON_00022495,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000204,http://purl.obolibrary.org/obo/DRON_00021977,has participant
+http://purl.obolibrary.org/obo/DRON_00025622,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00025622,http://purl.obolibrary.org/obo/CHEBI_175901,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025623,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00025623,http://purl.obolibrary.org/obo/CHEBI_59809,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000231,http://purl.obolibrary.org/obo/DRON_00025748,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000230,http://purl.obolibrary.org/obo/DRON_00020504,has participant
+http://purl.obolibrary.org/obo/DRON_00012887,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000175446,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000236,http://purl.obolibrary.org/obo/DRON_00034152,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000237,http://purl.obolibrary.org/obo/DRON_00034236,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000238,http://purl.obolibrary.org/obo/DRON_00025810,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000239,http://purl.obolibrary.org/obo/DRON_00025810,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000232,http://purl.obolibrary.org/obo/DRON_00020736,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000233,http://purl.obolibrary.org/obo/DRON_00020516,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000234,http://purl.obolibrary.org/obo/DRON_00020539,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000235,http://purl.obolibrary.org/obo/DRON_00020868,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000220,http://purl.obolibrary.org/obo/DRON_00021897,has participant
+http://purl.obolibrary.org/obo/DRON_00027893,http://purl.obolibrary.org/obo/DRON_00018685,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027893,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020026,has participant
+http://purl.obolibrary.org/obo/GO_0001838,http://purl.obolibrary.org/obo/GO_0016331,part of
+http://purl.obolibrary.org/obo/GO_0001841,http://purl.obolibrary.org/obo/GO_0021915,part of
+http://purl.obolibrary.org/obo/ODNAE_0000229,http://purl.obolibrary.org/obo/DRON_00020139,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000227,http://purl.obolibrary.org/obo/DRON_00023504,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000228,http://purl.obolibrary.org/obo/DRON_00020394,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000225,http://purl.obolibrary.org/obo/DRON_00022468,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000226,http://purl.obolibrary.org/obo/DRON_00020620,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000223,http://purl.obolibrary.org/obo/DRON_00026729,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000224,http://purl.obolibrary.org/obo/DRON_00020645,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000221,http://purl.obolibrary.org/obo/DRON_00082933,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000222,http://purl.obolibrary.org/obo/DRON_00021951,has participant
+http://purl.obolibrary.org/obo/DRON_00020504,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000206,has participant
+http://purl.obolibrary.org/obo/DRON_00020504,http://purl.obolibrary.org/obo/CHEBI_40279,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000024,http://purl.obolibrary.org/obo/DRON_00024830,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000023,http://purl.obolibrary.org/obo/DRON_00021347,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000026,http://purl.obolibrary.org/obo/DRON_00019003,has participant
+http://purl.obolibrary.org/obo/DRON_00034279,http://purl.obolibrary.org/obo/DRON_00020307,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000025,http://purl.obolibrary.org/obo/DRON_00034441,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000028,http://purl.obolibrary.org/obo/DRON_00031282,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000027,http://purl.obolibrary.org/obo/DRON_00031282,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000029,http://purl.obolibrary.org/obo/DRON_00026716,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000037,http://purl.obolibrary.org/obo/DRON_00029994,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000036,http://purl.obolibrary.org/obo/DRON_00012887,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000035,http://purl.obolibrary.org/obo/DRON_00024071,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000034,http://purl.obolibrary.org/obo/DRON_00019225,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000039,http://purl.obolibrary.org/obo/DRON_00033639,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000038,http://purl.obolibrary.org/obo/DRON_00029994,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000032,http://purl.obolibrary.org/obo/DRON_00033939,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000033,http://purl.obolibrary.org/obo/DRON_00020050,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000030,http://purl.obolibrary.org/obo/DRON_00027818,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000031,http://purl.obolibrary.org/obo/DRON_00020601,has participant
+http://purl.obolibrary.org/obo/DRON_00025777,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000236,has participant
+http://purl.obolibrary.org/obo/DRON_00025777,http://purl.obolibrary.org/obo/CHEBI_5864,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021114,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000105,has participant
+http://purl.obolibrary.org/obo/DRON_00021114,http://purl.obolibrary.org/obo/CHEBI_3374,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025774,http://purl.obolibrary.org/obo/CHEBI_480999,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025774,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010256,has participant
+http://purl.obolibrary.org/obo/DRON_00023379,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020026,has participant
+http://purl.obolibrary.org/obo/DRON_00023379,http://purl.obolibrary.org/obo/DRON_00018221,has_proper_part
+http://purl.obolibrary.org/obo/NCBITaxon_2759,http://purl.obolibrary.org/obo/NCBITaxon_2759,in taxon
+http://purl.obolibrary.org/obo/DRON_00059074,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000181,has participant
+http://purl.obolibrary.org/obo/DRON_00025779,http://purl.obolibrary.org/obo/DRON_00012990,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025779,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00021113,http://purl.obolibrary.org/obo/DRON_00010402,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021113,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000098,has participant
+http://purl.obolibrary.org/obo/DRON_00025763,http://purl.obolibrary.org/obo/CHEBI_45863,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025763,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000135,has participant
+http://purl.obolibrary.org/obo/DRON_00025763,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010260,has participant
+http://purl.obolibrary.org/obo/DRON_00023363,http://purl.obolibrary.org/obo/CHEBI_50217,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023363,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000184,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000067,http://purl.obolibrary.org/obo/DRON_00013763,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000068,http://purl.obolibrary.org/obo/DRON_00021749,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000069,http://purl.obolibrary.org/obo/DRON_00022238,has participant
+http://purl.obolibrary.org/obo/DRON_00034236,http://purl.obolibrary.org/obo/DRON_00020261,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00013763,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000256,has role
+http://purl.obolibrary.org/obo/DRON_00023396,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://purl.obolibrary.org/obo/DRON_00023396,http://purl.obolibrary.org/obo/CHEBI_9150,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000060,http://purl.obolibrary.org/obo/DRON_00026894,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000062,http://purl.obolibrary.org/obo/DRON_00026895,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000061,http://purl.obolibrary.org/obo/DRON_00031159,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000064,http://purl.obolibrary.org/obo/DRON_00024020,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000063,http://purl.obolibrary.org/obo/DRON_00014197,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000066,http://purl.obolibrary.org/obo/DRON_00019850,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000065,http://purl.obolibrary.org/obo/DRON_00026584,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000078,http://purl.obolibrary.org/obo/DRON_00022254,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000079,http://purl.obolibrary.org/obo/DRON_00022231,has participant
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/GO_0050877,capable_of
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/UBERON_0000066,existence ends during
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/CL_0002319,composed primarily of
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/UBERON_0016880,immediate transformation of
+http://purl.obolibrary.org/obo/UBERON_0001016,http://purl.obolibrary.org/obo/CL_0000540,has part
+http://purl.obolibrary.org/obo/UBERON_0001017,http://purl.obolibrary.org/obo/UBERON_0016879,immediate transformation of
+http://purl.obolibrary.org/obo/UBERON_0001017,http://purl.obolibrary.org/obo/NCBITaxon_33213,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0001017,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/ODNAE_0000073,http://purl.obolibrary.org/obo/DRON_00024356,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000072,http://purl.obolibrary.org/obo/DRON_00026889,has participant
+http://purl.obolibrary.org/obo/DRON_00027119,http://purl.obolibrary.org/obo/DRON_00013752,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000071,http://purl.obolibrary.org/obo/DRON_00023379,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000070,http://purl.obolibrary.org/obo/DRON_00021113,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000077,http://purl.obolibrary.org/obo/DRON_00022663,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000076,http://purl.obolibrary.org/obo/DRON_00033154,has participant
+http://purl.obolibrary.org/obo/UBERON_0002532,http://purl.obolibrary.org/obo/CL_0000352,has part
+http://purl.obolibrary.org/obo/ODNAE_0000075,http://purl.obolibrary.org/obo/DRON_00031753,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000074,http://purl.obolibrary.org/obo/DRON_00027279,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000049,http://purl.obolibrary.org/obo/DRON_00018841,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000045,http://purl.obolibrary.org/obo/DRON_00018981,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000046,http://purl.obolibrary.org/obo/DRON_00031408,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000047,http://purl.obolibrary.org/obo/DRON_00018901,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000048,http://purl.obolibrary.org/obo/DRON_00030794,has participant
+http://purl.obolibrary.org/obo/DRON_00031408,http://purl.obolibrary.org/obo/DRON_00019582,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000042,http://purl.obolibrary.org/obo/DRON_00018974,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000041,http://purl.obolibrary.org/obo/DRON_00018993,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000044,http://purl.obolibrary.org/obo/DRON_00031780,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000043,http://purl.obolibrary.org/obo/DRON_00026665,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000040,http://purl.obolibrary.org/obo/DRON_00025623,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000058,http://purl.obolibrary.org/obo/DRON_00027976,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000059,http://purl.obolibrary.org/obo/DRON_00027976,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000056,http://purl.obolibrary.org/obo/DRON_00018681,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000057,http://purl.obolibrary.org/obo/DRON_00014193,has participant
+http://purl.obolibrary.org/obo/DRON_00031401,http://purl.obolibrary.org/obo/DRON_00018916,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00010568,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000055,http://purl.obolibrary.org/obo/DRON_00014250,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000054,http://purl.obolibrary.org/obo/DRON_00027964,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000053,http://purl.obolibrary.org/obo/DRON_00027879,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000052,http://purl.obolibrary.org/obo/DRON_00026857,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000051,http://purl.obolibrary.org/obo/DRON_00022521,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000050,http://purl.obolibrary.org/obo/DRON_00030635,has participant
+http://purl.obolibrary.org/obo/DRON_00030932,http://purl.obolibrary.org/obo/DRON_00018864,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025837,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000065,has participant
+http://purl.obolibrary.org/obo/DRON_00025837,http://purl.obolibrary.org/obo/CHEBI_31941,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022291,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00022291,http://purl.obolibrary.org/obo/DRON_00010978,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0002104,http://purl.obolibrary.org/obo/GO_0007601,capable_of
+http://purl.obolibrary.org/obo/ODNAE_0000087,http://purl.obolibrary.org/obo/DRON_00021503,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000088,http://purl.obolibrary.org/obo/DRON_00019501,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000085,http://purl.obolibrary.org/obo/DRON_00022309,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000086,http://purl.obolibrary.org/obo/DRON_00021976,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000083,http://purl.obolibrary.org/obo/DRON_00023748,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000084,http://purl.obolibrary.org/obo/DRON_00023447,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000081,http://purl.obolibrary.org/obo/DRON_00025622,has participant
+http://purl.obolibrary.org/obo/DRON_00020955,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009923,has participant
+http://purl.obolibrary.org/obo/DRON_00020955,http://purl.obolibrary.org/obo/CHEBI_3082,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000082,http://purl.obolibrary.org/obo/DRON_00023632,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000080,http://purl.obolibrary.org/obo/DRON_00023781,has participant
+http://purl.obolibrary.org/obo/DRON_00025810,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00025810,http://purl.obolibrary.org/obo/CHEBI_567361,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000089,http://purl.obolibrary.org/obo/DRON_00021629,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000096,http://purl.obolibrary.org/obo/DRON_00020528,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000097,http://purl.obolibrary.org/obo/DRON_00023396,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000098,http://purl.obolibrary.org/obo/DRON_00025777,has participant
+http://purl.obolibrary.org/obo/NCBITaxon_33208,http://purl.obolibrary.org/obo/NCBITaxon_33208,in taxon
+http://purl.obolibrary.org/obo/DRON_00020960,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000243,has participant
+http://purl.obolibrary.org/obo/DRON_00020960,http://purl.obolibrary.org/obo/CHEBI_3090,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000099,http://purl.obolibrary.org/obo/DRON_00022754,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000092,http://purl.obolibrary.org/obo/DRON_00023278,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000093,http://purl.obolibrary.org/obo/DRON_00023118,has participant
+http://purl.obolibrary.org/obo/DRON_00026893,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000008288,has participant
+http://purl.obolibrary.org/obo/DRON_00026893,http://purl.obolibrary.org/obo/DRON_00018583,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000094,http://purl.obolibrary.org/obo/DRON_00023427,has participant
+http://purl.obolibrary.org/obo/DRON_00026894,http://purl.obolibrary.org/obo/CHEBI_46295,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026894,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020026,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000095,http://purl.obolibrary.org/obo/DRON_00020493,has participant
+http://purl.obolibrary.org/obo/DRON_00026895,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020025,has participant
+http://purl.obolibrary.org/obo/DRON_00026895,http://purl.obolibrary.org/obo/CHEBI_10023,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000090,http://purl.obolibrary.org/obo/DRON_00027059,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000091,http://purl.obolibrary.org/obo/DRON_00053744,has participant
+http://purl.obolibrary.org/obo/UBERON_0001032,http://purl.obolibrary.org/obo/GO_0007600,capable_of_part_of
+http://purl.obolibrary.org/obo/UBERON_0001032,http://purl.obolibrary.org/obo/UBERON_0004456,part of
+http://purl.obolibrary.org/obo/UBERON_0001032,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/UBERON_0001032,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/NCBITaxon_33213,http://purl.obolibrary.org/obo/NCBITaxon_33213,in taxon
+http://purl.obolibrary.org/obo/DRON_00026889,http://purl.obolibrary.org/obo/CHEBI_50730,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026889,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000083,has participant
+http://purl.obolibrary.org/obo/UBERON_0006598,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/GO_0048729,http://purl.obolibrary.org/obo/GO_0009888,part of
+http://purl.obolibrary.org/obo/DRON_00022253,http://purl.obolibrary.org/obo/CHEBI_15765,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022254,http://purl.obolibrary.org/obo/CHEBI_63598,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022254,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/UBERON_0010000,http://purl.obolibrary.org/obo/PATO_0001993,has quality
+http://purl.obolibrary.org/obo/UBERON_0010000,http://purl.obolibrary.org/obo/PATO_0001993,has quality
+http://purl.obolibrary.org/obo/UBERON_0010000,http://purl.obolibrary.org/obo/GO_0005623,has part
+http://purl.obolibrary.org/obo/DRON_00025863,http://purl.obolibrary.org/obo/DRON_00013042,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025863,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009949,has participant
+http://purl.obolibrary.org/obo/GO_0048731,http://purl.obolibrary.org/obo/GO_0007275,part of
+http://purl.obolibrary.org/obo/UBERON_0000307,http://purl.obolibrary.org/obo/UBERON_0000108,existence starts and ends during
+http://purl.obolibrary.org/obo/UBERON_0000307,http://purl.obolibrary.org/obo/UBERON_0000108,existence starts and ends during
+http://purl.obolibrary.org/obo/UBERON_0000307,http://purl.obolibrary.org/obo/UBERON_0007010,develops_from
+http://purl.obolibrary.org/obo/DRON_00026857,http://purl.obolibrary.org/obo/DRON_00016418,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022275,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000181,has participant
+http://purl.obolibrary.org/obo/DRON_00022275,http://purl.obolibrary.org/obo/CHEBI_43755,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025843,http://purl.obolibrary.org/obo/DRON_00013025,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025843,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020008,has participant
+http://purl.obolibrary.org/obo/UBERON_0004456,http://purl.obolibrary.org/obo/UBERON_0000066,existence ends during
+http://purl.obolibrary.org/obo/UBERON_0004456,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/UBERON_0004456,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/DRON_00021503,http://purl.obolibrary.org/obo/CHEBI_47781,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021503,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00021503,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00023748,http://purl.obolibrary.org/obo/DRON_00012978,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023742,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00023742,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00023742,http://purl.obolibrary.org/obo/CHEBI_9943,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0011216,http://purl.obolibrary.org/obo/UBERON_0000467,part of
+http://purl.obolibrary.org/obo/DRON_00022238,http://purl.obolibrary.org/obo/CHEBI_6402,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022238,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00022231,http://purl.obolibrary.org/obo/DRON_00017772,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022231,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00023012,http://purl.obolibrary.org/obo/CHEBI_8107,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023012,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000180,has participant
+http://purl.obolibrary.org/obo/CHEBI_7915,http://purl.obolibrary.org/obo/DRON_00020324,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00022244,http://purl.obolibrary.org/obo/CHEBI_6427,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020493,http://purl.obolibrary.org/obo/DRON_00013468,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023783,http://purl.obolibrary.org/obo/CHEBI_10110,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023783,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00023781,http://purl.obolibrary.org/obo/CHEBI_10100,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023781,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000083,has participant
+http://purl.obolibrary.org/obo/GO_0072175,http://purl.obolibrary.org/obo/GO_0060562,part of
+http://purl.obolibrary.org/obo/DRON_00030435,http://purl.obolibrary.org/obo/DRON_00016203,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030435,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000193,has participant
+http://purl.obolibrary.org/obo/DRON_00030440,http://purl.obolibrary.org/obo/CHEBI_7591,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030440,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00027964,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020009,has participant
+http://purl.obolibrary.org/obo/DRON_00027964,http://purl.obolibrary.org/obo/DRON_00018693,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021999,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00021999,http://purl.obolibrary.org/obo/CHEBI_465284,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020458,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000236,has participant
+http://purl.obolibrary.org/obo/DRON_00020458,http://purl.obolibrary.org/obo/DRON_00013638,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027976,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000191,has participant
+http://purl.obolibrary.org/obo/DRON_00027976,http://purl.obolibrary.org/obo/DRON_00014262,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027976,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000098,has participant
+http://purl.obolibrary.org/obo/GO_0035295,http://purl.obolibrary.org/obo/GO_0007275,part of
+http://purl.obolibrary.org/obo/GO_0040016,http://purl.obolibrary.org/obo/GO_0009790,part of
+http://purl.obolibrary.org/obo/DRON_00021599,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00021599,http://purl.obolibrary.org/obo/CHEBI_490877,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0005423,http://purl.obolibrary.org/obo/GO_0032502,capable_of
+http://purl.obolibrary.org/obo/DRON_00021977,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00021977,http://purl.obolibrary.org/obo/CHEBI_5138,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021976,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://purl.obolibrary.org/obo/DRON_00021976,http://purl.obolibrary.org/obo/DRON_00012123,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027059,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00027059,http://purl.obolibrary.org/obo/CHEBI_7936,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00033639,http://purl.obolibrary.org/obo/DRON_00020017,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020444,http://purl.obolibrary.org/obo/DRON_00018173,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023302,http://purl.obolibrary.org/obo/CHEBI_63580,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025748,http://purl.obolibrary.org/obo/DRON_00012980,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025748,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000247,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000110,http://purl.obolibrary.org/obo/DRON_00023204,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000115,http://purl.obolibrary.org/obo/DRON_00018691,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000116,http://purl.obolibrary.org/obo/DRON_00027865,has participant
+http://purl.obolibrary.org/obo/DRON_00022663,http://purl.obolibrary.org/obo/DRON_00018005,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022663,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000117,http://purl.obolibrary.org/obo/DRON_00024052,has participant
+http://purl.obolibrary.org/obo/GO_0035239,http://purl.obolibrary.org/obo/GO_0035295,part of
+http://purl.obolibrary.org/obo/ODNAE_0000118,http://purl.obolibrary.org/obo/DRON_00024027,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000111,http://purl.obolibrary.org/obo/DRON_00020018,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000112,http://purl.obolibrary.org/obo/DRON_00019892,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000113,http://purl.obolibrary.org/obo/DRON_00032559,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000114,http://purl.obolibrary.org/obo/DRON_00018756,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000119,http://purl.obolibrary.org/obo/DRON_00024045,has participant
+http://purl.obolibrary.org/obo/DRON_00032559,http://purl.obolibrary.org/obo/DRON_00019228,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000106,http://purl.obolibrary.org/obo/DRON_00025299,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000107,http://purl.obolibrary.org/obo/DRON_00020458,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000104,http://purl.obolibrary.org/obo/DRON_00022733,has participant
+http://purl.obolibrary.org/obo/DRON_00032163,http://purl.obolibrary.org/obo/DRON_00019228,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000105,http://purl.obolibrary.org/obo/DRON_00020523,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000102,http://purl.obolibrary.org/obo/DRON_00021345,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000103,http://purl.obolibrary.org/obo/DRON_00020955,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000100,http://purl.obolibrary.org/obo/DRON_00023783,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000101,http://purl.obolibrary.org/obo/DRON_00022275,has participant
+http://purl.obolibrary.org/obo/DRON_00023704,http://purl.obolibrary.org/obo/CHEBI_9738,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023704,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00023704,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000108,http://purl.obolibrary.org/obo/DRON_00025255,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000109,http://purl.obolibrary.org/obo/DRON_00014630,has participant
+http://purl.obolibrary.org/obo/DRON_00023323,http://purl.obolibrary.org/obo/DRON_00016899,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023323,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000177,has participant
+http://purl.obolibrary.org/obo/DRON_00023325,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000117,has participant
+http://purl.obolibrary.org/obo/DRON_00023325,http://purl.obolibrary.org/obo/CHEBI_8888,has_proper_part
+http://purl.obolibrary.org/obo/CHEBI_63622,http://purl.obolibrary.org/obo/DRON_00020323,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00022395,http://purl.obolibrary.org/obo/DRON_00017827,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00010449,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,http://purl.obolibrary.org/obo/GO_2000372,realized in
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000174,http://purl.obolibrary.org/obo/GO_2000476,realized in
+http://purl.obolibrary.org/obo/DRON_00031753,http://purl.obolibrary.org/obo/CHEBI_8356,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00031753,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000117,has participant
+http://purl.obolibrary.org/obo/GO_0050906,http://purl.obolibrary.org/obo/GO_0007600,part of
+http://purl.obolibrary.org/obo/GO_0050906,http://purl.obolibrary.org/obo/GO_0007600,part of
+http://purl.obolibrary.org/obo/UBERON_0004121,http://purl.obolibrary.org/obo/UBERON_0000924,develops_from
+http://purl.obolibrary.org/obo/UBERON_0004121,http://purl.obolibrary.org/obo/UBERON_0000924,develops_from
+http://purl.obolibrary.org/obo/DRON_00022385,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000145,has participant
+http://purl.obolibrary.org/obo/DRON_00022385,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000185,has participant
+http://purl.obolibrary.org/obo/DRON_00022385,http://purl.obolibrary.org/obo/CHEBI_6722,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022383,http://purl.obolibrary.org/obo/CHEBI_63609,has_proper_part
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020026,http://purl.obolibrary.org/obo/GO_0051344,realized in
+http://purl.obolibrary.org/obo/DRON_00023497,http://purl.obolibrary.org/obo/CHEBI_10650,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023497,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000256,has role
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,http://purl.obolibrary.org/obo/GO_2001216,realized in
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020019,http://purl.obolibrary.org/obo/GO_0046318,realized in
+http://purl.obolibrary.org/obo/DRON_00023479,http://purl.obolibrary.org/obo/CHEBI_9334,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023479,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000160,has participant
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,http://purl.obolibrary.org/obo/GO_0051624,realized in
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,http://purl.obolibrary.org/obo/GO_0051612,realized in
+http://purl.obolibrary.org/obo/DRON_00023469,http://purl.obolibrary.org/obo/DRON_00015855,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023469,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009946,has participant
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000114,http://purl.obolibrary.org/obo/GO_0051585,realized in
+http://purl.obolibrary.org/obo/UBERON_0010316,http://purl.obolibrary.org/obo/UBERON_0002532,develops_from
+http://purl.obolibrary.org/obo/DRON_00026584,http://purl.obolibrary.org/obo/DRON_00013784,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026599,http://purl.obolibrary.org/obo/DRON_00017960,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026059,http://purl.obolibrary.org/obo/CHEBI_44915,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022714,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00022714,http://purl.obolibrary.org/obo/CHEBI_7591,has_proper_part
+http://purl.obolibrary.org/obo/GO_0002009,http://purl.obolibrary.org/obo/GO_0060429,part of
+http://purl.obolibrary.org/obo/DRON_00027215,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00027215,http://purl.obolibrary.org/obo/DRON_00013809,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022733,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00022733,http://purl.obolibrary.org/obo/CHEBI_100246,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022739,http://purl.obolibrary.org/obo/CHEBI_7640,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022739,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00022739,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00030635,http://purl.obolibrary.org/obo/CHEBI_63628,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020601,http://purl.obolibrary.org/obo/CHEBI_44423,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020601,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000212,has participant
+http://purl.obolibrary.org/obo/CL_0000221,http://purl.obolibrary.org/obo/UBERON_0000924,part of
+http://purl.obolibrary.org/obo/DRON_00022754,http://purl.obolibrary.org/obo/CHEBI_7731,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022754,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00022757,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000160,has participant
+http://purl.obolibrary.org/obo/DRON_00022757,http://purl.obolibrary.org/obo/DRON_00011221,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020625,http://purl.obolibrary.org/obo/CHEBI_49662,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020625,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000160,has participant
+http://purl.obolibrary.org/obo/DRON_00020621,http://purl.obolibrary.org/obo/CHEBI_47499,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020621,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00020621,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00020620,http://purl.obolibrary.org/obo/CHEBI_47499,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020620,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00020620,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00020525,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00020525,http://purl.obolibrary.org/obo/CHEBI_2666,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020525,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00020523,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000180,has participant
+http://purl.obolibrary.org/obo/DRON_00020523,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000161,has participant
+http://purl.obolibrary.org/obo/DRON_00020523,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000211,has participant
+http://purl.obolibrary.org/obo/DRON_00020523,http://purl.obolibrary.org/obo/CHEBI_2663,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020523,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000069,has participant
+http://purl.obolibrary.org/obo/DRON_00020516,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000203,has participant
+http://purl.obolibrary.org/obo/DRON_00020516,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000193,has participant
+http://purl.obolibrary.org/obo/DRON_00020516,http://purl.obolibrary.org/obo/CHEBI_2618,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00033939,http://purl.obolibrary.org/obo/DRON_00020131,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020539,http://purl.obolibrary.org/obo/CHEBI_2704,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020539,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00053744,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000255,has participant
+http://purl.obolibrary.org/obo/GO_0048646,http://purl.obolibrary.org/obo/GO_0009653,part of
+http://purl.obolibrary.org/obo/DRON_00033154,http://purl.obolibrary.org/obo/CHEBI_45409,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00033154,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000246,has participant
+http://purl.obolibrary.org/obo/DRON_00020528,http://purl.obolibrary.org/obo/CHEBI_2668,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020528,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020065,has participant
+http://purl.obolibrary.org/obo/DRON_00024022,http://purl.obolibrary.org/obo/DRON_00016731,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024027,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00024027,http://purl.obolibrary.org/obo/DRON_00013028,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020565,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://purl.obolibrary.org/obo/DRON_00020565,http://purl.obolibrary.org/obo/CHEBI_39548,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024020,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00024020,http://purl.obolibrary.org/obo/CHEBI_63611,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024010,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000138,has participant
+http://purl.obolibrary.org/obo/DRON_00024010,http://purl.obolibrary.org/obo/CHEBI_10102,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020557,http://purl.obolibrary.org/obo/CHEBI_15365,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024008,http://purl.obolibrary.org/obo/CHEBI_8228,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021629,http://purl.obolibrary.org/obo/CHEBI_101278,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021629,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020065,has participant
+http://purl.obolibrary.org/obo/DRON_00024062,http://purl.obolibrary.org/obo/DRON_00013779,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023447,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00023447,http://purl.obolibrary.org/obo/CHEBI_63581,has_proper_part
+http://purl.obolibrary.org/obo/OAE_0001288,http://purl.obolibrary.org/obo/UBERON_0000010,adverse event occurs in
+http://purl.obolibrary.org/obo/DRON_00024052,http://purl.obolibrary.org/obo/DRON_00019457,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024052,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00024462,http://purl.obolibrary.org/obo/CHEBI_45081,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022310,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000121,has participant
+http://purl.obolibrary.org/obo/DRON_00022310,http://purl.obolibrary.org/obo/CHEBI_40303,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023452,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000087,has participant
+http://purl.obolibrary.org/obo/DRON_00023452,http://purl.obolibrary.org/obo/DRON_00011589,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00031691,http://purl.obolibrary.org/obo/CHEBI_9667,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022309,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000070,has participant
+http://purl.obolibrary.org/obo/DRON_00022309,http://purl.obolibrary.org/obo/CHEBI_6541,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024436,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00024436,http://purl.obolibrary.org/obo/CHEBI_50729,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023427,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009923,has participant
+http://purl.obolibrary.org/obo/DRON_00023427,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000009924,has participant
+http://purl.obolibrary.org/obo/DRON_00023427,http://purl.obolibrary.org/obo/CHEBI_63622,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024045,http://purl.obolibrary.org/obo/CHEBI_10119,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024045,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000230,has role
+http://purl.obolibrary.org/obo/DRON_00024045,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000190,has role
+http://purl.obolibrary.org/obo/DRON_00024045,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000130,has role
+http://purl.obolibrary.org/obo/DRON_00024045,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000099,has role
+http://purl.obolibrary.org/obo/DRON_00024497,http://purl.obolibrary.org/obo/CHEBI_8768,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023809,http://purl.obolibrary.org/obo/CHEBI_10125,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023809,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000118,has participant
+http://purl.obolibrary.org/obo/DRON_00023808,http://purl.obolibrary.org/obo/DRON_00014194,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023808,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000256,has role
+http://purl.obolibrary.org/obo/GO_0035148,http://purl.obolibrary.org/obo/GO_0035239,part of
+http://purl.obolibrary.org/obo/DRON_00021698,http://purl.obolibrary.org/obo/CHEBI_4659,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021698,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000183,has participant
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020065,http://purl.obolibrary.org/obo/GO_0051926,realized in
+http://purl.obolibrary.org/obo/DRON_00024071,http://purl.obolibrary.org/obo/DRON_00016952,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024071,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000247,has participant
+http://purl.obolibrary.org/obo/CL_0000540,http://purl.obolibrary.org/obo/CL_0000031,develops_from
+http://purl.obolibrary.org/obo/CHEBI_2668,http://purl.obolibrary.org/obo/DRON_00020325,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00022495,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000134,has participant
+http://purl.obolibrary.org/obo/DRON_00022495,http://purl.obolibrary.org/obo/CHEBI_6888,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022495,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000159,has participant
+http://purl.obolibrary.org/obo/DRON_00022497,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000134,has participant
+http://purl.obolibrary.org/obo/DRON_00022497,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000159,has participant
+http://purl.obolibrary.org/obo/DRON_00022497,http://purl.obolibrary.org/obo/CHEBI_6888,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00025587,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00025587,http://purl.obolibrary.org/obo/CHEBI_127780,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022898,http://purl.obolibrary.org/obo/DRON_00016762,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021386,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000109,has participant
+http://purl.obolibrary.org/obo/DRON_00021386,http://purl.obolibrary.org/obo/CHEBI_47780,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021386,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/CHEBI_3082,http://purl.obolibrary.org/obo/DRON_00020323,is_bearer_of
+http://purl.obolibrary.org/obo/DRON_00023599,http://purl.obolibrary.org/obo/CHEBI_9588,has_proper_part
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000225,http://purl.obolibrary.org/obo/GO_1900078,realized in
+http://purl.obolibrary.org/obo/GO_0009791,http://purl.obolibrary.org/obo/GO_0007275,part of
+http://purl.obolibrary.org/obo/GO_0009790,http://purl.obolibrary.org/obo/GO_0007275,part of
+http://purl.obolibrary.org/obo/DRON_00018756,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020010,has participant
+http://purl.obolibrary.org/obo/DRON_00026688,http://purl.obolibrary.org/obo/DRON_00013476,has_proper_part
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000230,http://purl.obolibrary.org/obo/GO_0033602,realized in
+http://purl.obolibrary.org/obo/DRON_00019850,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000240,http://purl.obolibrary.org/obo/DRON_00025810,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000241,http://purl.obolibrary.org/obo/DRON_00021872,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000242,http://purl.obolibrary.org/obo/DRON_00030435,has participant
+http://purl.obolibrary.org/obo/DRON_00018348,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000256,has role
+http://purl.obolibrary.org/obo/ODNAE_0000248,http://purl.obolibrary.org/obo/DRON_00030017,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000247,http://purl.obolibrary.org/obo/DRON_00023210,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000249,http://purl.obolibrary.org/obo/DRON_00025779,has participant
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000243,http://purl.obolibrary.org/obo/GO_2000824,realized in
+http://purl.obolibrary.org/obo/ODNAE_0000244,http://purl.obolibrary.org/obo/DRON_00020635,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000243,http://purl.obolibrary.org/obo/DRON_00025223,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000246,http://purl.obolibrary.org/obo/DRON_00022460,has participant
+http://purl.obolibrary.org/obo/ODNAE_0000245,http://purl.obolibrary.org/obo/DRON_00030779,has participant
+http://purl.obolibrary.org/obo/DRON_00021347,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00021347,http://purl.obolibrary.org/obo/CHEBI_100241,has_proper_part
+http://purl.obolibrary.org/obo/ODNAE_0000250,http://purl.obolibrary.org/obo/DRON_00034279,has participant
+http://purl.obolibrary.org/obo/DRON_00021345,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00021345,http://purl.obolibrary.org/obo/CHEBI_100241,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0005291,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/UBERON_0005291,http://purl.obolibrary.org/obo/UBERON_0002050,part of
+http://purl.obolibrary.org/obo/UBERON_0005291,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/DRON_00026665,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000102,has participant
+http://purl.obolibrary.org/obo/DRON_00026665,http://purl.obolibrary.org/obo/CHEBI_3219,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00026665,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000114,has participant
+http://purl.obolibrary.org/obo/DRON_00022828,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000147,has participant
+http://purl.obolibrary.org/obo/DRON_00022828,http://purl.obolibrary.org/obo/CHEBI_7915,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021832,http://purl.obolibrary.org/obo/CHEBI_4877,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00021832,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/OAE_0000337,http://purl.obolibrary.org/obo/UBERON_0000010,adverse event occurs in
+http://purl.obolibrary.org/obo/GO_0021915,http://purl.obolibrary.org/obo/GO_0007399,part of
+http://purl.obolibrary.org/obo/GO_0021915,http://purl.obolibrary.org/obo/GO_0043009,part of
+http://purl.obolibrary.org/obo/UBERON_0007010,http://purl.obolibrary.org/obo/UBERON_0000107,existence ends with
+http://purl.obolibrary.org/obo/UBERON_0007010,http://purl.obolibrary.org/obo/UBERON_0000107,existence starts with
+http://purl.obolibrary.org/obo/UBERON_0007010,http://purl.obolibrary.org/obo/UBERON_0000107,existence starts with
+http://purl.obolibrary.org/obo/UBERON_0007010,http://purl.obolibrary.org/obo/UBERON_0000107,existence ends with
+http://purl.obolibrary.org/obo/DRON_00020736,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000236,has participant
+http://purl.obolibrary.org/obo/DRON_00020736,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000233,has participant
+http://purl.obolibrary.org/obo/DRON_00020736,http://purl.obolibrary.org/obo/DRON_00010174,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000467,http://purl.obolibrary.org/obo/UBERON_0000111,existence starts during or after
+http://purl.obolibrary.org/obo/UBERON_0000467,http://purl.obolibrary.org/obo/UBERON_0000468,part of
+http://purl.obolibrary.org/obo/DRON_00022889,http://purl.obolibrary.org/obo/CHEBI_63617,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022889,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000117,has participant
+http://purl.obolibrary.org/obo/DRON_00030779,http://purl.obolibrary.org/obo/CHEBI_6375,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00030779,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000147,has participant
+http://purl.obolibrary.org/obo/CHEBI_8768,http://purl.obolibrary.org/obo/DRON_00020324,is_bearer_of
+http://purl.obolibrary.org/obo/UBERON_0000480,http://purl.obolibrary.org/obo/UBERON_0000468,part of
+http://purl.obolibrary.org/obo/DRON_00022859,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000087,has participant
+http://purl.obolibrary.org/obo/DRON_00022859,http://purl.obolibrary.org/obo/DRON_00011289,has_proper_part
+http://purl.obolibrary.org/obo/NCBITaxon_6072,http://purl.obolibrary.org/obo/NCBITaxon_6072,in taxon
+http://purl.obolibrary.org/obo/DRON_00022073,http://purl.obolibrary.org/obo/CHEBI_5613,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022073,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000230,has participant
+http://purl.obolibrary.org/obo/DRON_00031282,http://purl.obolibrary.org/obo/DRON_00020281,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022867,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010215,has participant
+http://purl.obolibrary.org/obo/DRON_00022867,http://purl.obolibrary.org/obo/CHEBI_27446,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022864,http://purl.obolibrary.org/obo/CHEBI_18208,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000479,http://purl.obolibrary.org/obo/GO_0031012,has part
+http://purl.obolibrary.org/obo/UBERON_0000479,http://purl.obolibrary.org/obo/UBERON_0000468,part of
+http://purl.obolibrary.org/obo/DRON_00014193,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020089,has participant
+http://purl.obolibrary.org/obo/DRON_00014197,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/GO_0048513,http://purl.obolibrary.org/obo/GO_0048731,part of
+http://purl.obolibrary.org/obo/DRON_00012997,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010279,has participant
+http://purl.obolibrary.org/obo/DRON_00020653,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000020025,has participant
+http://purl.obolibrary.org/obo/DRON_00020653,http://purl.obolibrary.org/obo/CHEBI_6076,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00033048,http://purl.obolibrary.org/obo/DRON_00019607,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00020645,http://purl.obolibrary.org/obo/CHEBI_6030,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000010,http://purl.obolibrary.org/obo/UBERON_0001016,part of
+http://purl.obolibrary.org/obo/DRON_00020635,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000205,has participant
+http://purl.obolibrary.org/obo/DRON_00020635,http://purl.obolibrary.org/obo/DRON_00016933,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000020,http://purl.obolibrary.org/obo/UBERON_0001032,part of
+http://purl.obolibrary.org/obo/UBERON_0000020,http://purl.obolibrary.org/obo/GO_0050906,capable_of
+http://purl.obolibrary.org/obo/UBERON_0000020,http://purl.obolibrary.org/obo/GO_0050906,capable_of
+http://purl.obolibrary.org/obo/OAE_0002553,http://purl.obolibrary.org/obo/UBERON_0000970,occurs in
+http://purl.obolibrary.org/obo/DRON_00021749,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000103,has participant
+http://purl.obolibrary.org/obo/DRON_00021749,http://purl.obolibrary.org/obo/DRON_00017693,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00034441,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010215,has participant
+http://purl.obolibrary.org/obo/DRON_00021753,http://purl.obolibrary.org/obo/CHEBI_4784,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023989,http://purl.obolibrary.org/obo/CHEBI_37941,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00027279,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000019993,has participant
+http://purl.obolibrary.org/obo/DRON_00027279,http://purl.obolibrary.org/obo/DRON_00017214,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000923,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/UBERON_0000923,http://purl.obolibrary.org/obo/NCBITaxon_6072,only in taxon
+http://purl.obolibrary.org/obo/UBERON_0000923,http://purl.obolibrary.org/obo/UBERON_0002532,develops_from
+http://purl.obolibrary.org/obo/UBERON_0000922,http://purl.obolibrary.org/obo/UBERON_0000068,existence starts with
+http://purl.obolibrary.org/obo/UBERON_0000922,http://purl.obolibrary.org/obo/UBERON_0000068,existence starts with
+http://purl.obolibrary.org/obo/UBERON_0000922,http://purl.obolibrary.org/obo/UBERON_0000068,existence ends with
+http://purl.obolibrary.org/obo/UBERON_0000922,http://purl.obolibrary.org/obo/UBERON_0000068,existence ends with
+http://purl.obolibrary.org/obo/UBERON_0000924,http://purl.obolibrary.org/obo/CL_0000221,has part
+http://purl.obolibrary.org/obo/UBERON_0000924,http://purl.obolibrary.org/obo/UBERON_0006601,immediate transformation of
+http://purl.obolibrary.org/obo/DRON_00022009,http://purl.obolibrary.org/obo/CHEBI_17833,has_proper_part
+http://purl.obolibrary.org/obo/GO_0048598,http://purl.obolibrary.org/obo/GO_0009790,part of
+http://purl.obolibrary.org/obo/DRON_00022419,http://purl.obolibrary.org/obo/CHEBI_6775,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0002050,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/UBERON_0002050,http://purl.obolibrary.org/obo/UBERON_0000922,part of
+http://purl.obolibrary.org/obo/DRON_00018681,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000246,has participant
+http://purl.obolibrary.org/obo/DRON_00018691,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000010262,has participant
+http://purl.obolibrary.org/obo/UBERON_0000092,http://purl.obolibrary.org/obo/UBERON_0000104,part of
+http://purl.obolibrary.org/obo/UBERON_0000092,http://purl.obolibrary.org/obo/GO_0009791,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000092,http://purl.obolibrary.org/obo/UBERON_0000068,preceded by
+http://purl.obolibrary.org/obo/DRON_00014630,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000236,has participant
+http://purl.obolibrary.org/obo/DRON_00022437,http://purl.obolibrary.org/obo/CHEBI_6801,has_proper_part
+http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000175446,http://purl.obolibrary.org/obo/GO_0010804,realized in
+http://purl.obolibrary.org/obo/DRON_00024567,http://purl.obolibrary.org/obo/CHEBI_10127,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022468,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000098,has participant
+http://purl.obolibrary.org/obo/DRON_00022468,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000191,has participant
+http://purl.obolibrary.org/obo/DRON_00022468,http://purl.obolibrary.org/obo/CHEBI_44185,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00024356,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000133,has participant
+http://purl.obolibrary.org/obo/DRON_00024356,http://purl.obolibrary.org/obo/CHEBI_4953,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022460,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000155,has participant
+http://purl.obolibrary.org/obo/DRON_00022460,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000150,has participant
+http://purl.obolibrary.org/obo/DRON_00022460,http://purl.obolibrary.org/obo/CHEBI_50673,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00022460,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000132,has participant
+http://purl.obolibrary.org/obo/DRON_00031788,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000176,has participant
+http://purl.obolibrary.org/obo/DRON_00031788,http://purl.obolibrary.org/obo/CHEBI_63632,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023504,http://purl.obolibrary.org/obo/CHEBI_41774,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00023504,http://evs.nci.nih.gov/ftp1/NDF-RT/NDF-RT.owl#N0000000168,has participant
+http://purl.obolibrary.org/obo/DRON_00031783,http://purl.obolibrary.org/obo/DRON_00018173,has_proper_part
+http://purl.obolibrary.org/obo/DRON_00031780,http://purl.obolibrary.org/obo/DRON_00018985,has_proper_part
+http://purl.obolibrary.org/obo/UBERON_0000071,http://purl.obolibrary.org/obo/UBERON_0000104,part of
+http://purl.obolibrary.org/obo/UBERON_0000071,http://purl.obolibrary.org/obo/GO_0016265,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000071,http://purl.obolibrary.org/obo/UBERON_0000104,ends
+http://purl.obolibrary.org/obo/UBERON_0000970,http://purl.obolibrary.org/obo/CL_0000149,has part
+http://purl.obolibrary.org/obo/UBERON_0000970,http://purl.obolibrary.org/obo/UBERON_0002104,part of
+http://purl.obolibrary.org/obo/UBERON_0000970,http://purl.obolibrary.org/obo/GO_0009584,capable_of
+http://purl.obolibrary.org/obo/UBERON_0000970,http://purl.obolibrary.org/obo/CL_0000210,has part
+http://purl.obolibrary.org/obo/CHEBI_7772,http://purl.obolibrary.org/obo/DRON_00020324,is_bearer_of
+http://purl.obolibrary.org/obo/UBERON_0000066,http://purl.obolibrary.org/obo/UBERON_0000092,part of
+http://purl.obolibrary.org/obo/UBERON_0000066,http://purl.obolibrary.org/obo/UBERON_0000111,preceded by
+http://purl.obolibrary.org/obo/UBERON_0000066,http://purl.obolibrary.org/obo/UBERON_0000071,precedes
+http://purl.obolibrary.org/obo/UBERON_0000067,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000067,http://purl.obolibrary.org/obo/UBERON_0000068,part of
+http://purl.obolibrary.org/obo/UBERON_0000068,http://purl.obolibrary.org/obo/UBERON_0000066,precedes
+http://purl.obolibrary.org/obo/UBERON_0000068,http://purl.obolibrary.org/obo/UBERON_0000092,precedes
+http://purl.obolibrary.org/obo/UBERON_0000068,http://purl.obolibrary.org/obo/GO_0009790,simultaneous_with
+http://purl.obolibrary.org/obo/UBERON_0000068,http://purl.obolibrary.org/obo/UBERON_0000104,part of
+http://purl.obolibrary.org/obo/UBERON_0000061,http://purl.obolibrary.org/obo/UBERON_0000106,existence starts during or after
+http://purl.obolibrary.org/obo/UBERON_0000061,http://purl.obolibrary.org/obo/UBERON_0000071,existence ends during or before
+http://purl.obolibrary.org/obo/UBERON_0000062,http://purl.obolibrary.org/obo/UBERON_0006984,has boundary
+http://purl.obolibrary.org/obo/UBERON_0000062,http://purl.obolibrary.org/obo/GO_0008150,capable_of
+http://purl.obolibrary.org/obo/UBERON_0000062,http://purl.obolibrary.org/obo/UBERON_0000111,existence starts during or after
+http://purl.obolibrary.org/obo/UBERON_0000062,http://purl.obolibrary.org/obo/UBERON_0000467,part of

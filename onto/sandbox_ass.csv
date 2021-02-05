@@ -1,0 +1,17 @@
+source,target,relation
+http://purl.obolibrary.org/obo/SandboxO_0000006,http://purl.obolibrary.org/obo/SandboxO_0000003,regulates
+http://purl.obolibrary.org/obo/SandboxO_0000010,http://purl.obolibrary.org/obo/SandboxO_0000004,causes
+http://purl.obolibrary.org/obo/SandboxO_0000014,http://purl.obolibrary.org/obo/SandboxO_0000004,causes
+http://purl.obolibrary.org/obo/SandboxO_0000013,http://purl.obolibrary.org/obo/SandboxO_0000004,causes
+http://purl.obolibrary.org/obo/SandboxO_0000006,http://purl.obolibrary.org/obo/SandboxO_0000010,regulates
+http://purl.obolibrary.org/obo/SandboxO_0000007,http://purl.obolibrary.org/obo/SandboxO_0000003,regulates
+http://purl.obolibrary.org/obo/SandboxO_0000003,http://purl.obolibrary.org/obo/SandboxO_0000010,causes
+http://purl.obolibrary.org/obo/SandboxO_0000010,http://purl.obolibrary.org/obo/SandboxO_0000004,regulates
+http://purl.obolibrary.org/obo/SandboxO_0000013,http://purl.obolibrary.org/obo/SandboxO_0000004,regulates
+http://purl.obolibrary.org/obo/SandboxO_0000010,http://purl.obolibrary.org/obo/SandboxO_0000007,causes
+http://purl.obolibrary.org/obo/SandboxO_0000013,http://purl.obolibrary.org/obo/SandboxO_0000007,causes
+http://purl.obolibrary.org/obo/SandboxO_0000010,http://purl.obolibrary.org/obo/SandboxO_0000007,test1
+http://purl.obolibrary.org/obo/SandboxO_0000001,http://purl.obolibrary.org/obo/SandboxO_0000007,test2
+http://purl.obolibrary.org/obo/SandboxO_0000001,http://purl.obolibrary.org/obo/SandboxO_0000007,test3
+http://purl.obolibrary.org/obo/SandboxO_0000004,http://purl.obolibrary.org/obo/SandboxO_0000007,test3
+http://purl.obolibrary.org/obo/SandboxO_0000010,http://purl.obolibrary.org/obo/SandboxO_0000007,test4
